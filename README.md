@@ -15,4 +15,4 @@ This portfolio showcases my projects, skills, and learning progress.
 3. **[Predictive Modeling (Python)](Projects/Project-3/README.md)**
 
 ## 📫 Let’s Connect!
-🔗 [LinkedIn](https://linkedin.com/in/your-profile) | 🐦 [Twitter](https://twitter.com/your-profile) | 🌍 [Kaggle](https://kaggle.com/your-profile)
+🔗 [LinkedIn](https://www.linkedin.com/in/raven-klein-r-8705222b6?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app) | 🌍 [Kaggle] (COMING SOON!) | 🎬 [TikTok](https://www.tiktok.com/@project_raven2024?_t=ZS-8tl9I4LUHvW&_r=1) | ⓕ [Facebook](https://www.facebook.com/share/18KKNrdMQG/) | 📷 [Instagram](https://www.instagram.com/project.raven2024?igsh=ZWI1NXV0Njhibzhk) | ▶ [Youtube] (COMING SOON!)
