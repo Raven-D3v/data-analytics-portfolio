@@ -4,6 +4,7 @@
 
 
 ## 📌 Overview
+🔹 This is my first Excel dashboard project, focusing on analyzing e-commerce sales performance.
 - **Goal:** Develop an interactive Excel dashboard to analyze sales trends, identify top-selling products, and track key customer contributions.
 - **Tools Used:** Microsoft Excel (Pivot Tables, Pivot Charts, Slicers)
 - **Dataset:** Custom-created e-commerce sales dataset
@@ -15,7 +16,7 @@
 - 🔹 **Dynamic Filters:** Enabled interactive data exploration through slicers (Year, Product, Customer).
 
 ## 📊 Project Files
-- **Dataset:** `sales_dashboard.xlsx` (sales_dashboard.xlsx)
+- **Dataset:** [View Dataset](sales_dashboard.xlsx)
 - **Dashboard:** [View Dashboard](sales_dashboard.xlsx)
 
 ## 🚀 Future Improvements
