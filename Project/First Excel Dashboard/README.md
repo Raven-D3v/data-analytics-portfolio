@@ -1,5 +1,8 @@
 # 📊 Sales Performance Dashboard
 
+![Sales Dashboard](sales_dashboard.png)
+
+
 ## 📌 Overview
 - **Goal:** Develop an interactive Excel dashboard to analyze sales trends, identify top-selling products, and track key customer contributions.
 - **Tools Used:** Microsoft Excel (Pivot Tables, Pivot Charts, Slicers)
@@ -12,8 +15,8 @@
 - 🔹 **Dynamic Filters:** Enabled interactive data exploration through slicers (Year, Product, Customer).
 
 ## 📊 Project Files
-- **Dataset:** `sales_dashboard.xlsx`
-- **Dashboard:** `sales_dashboard.xlsx`
+- **Dataset:** `sales_dashboard.xlsx` (sales_dashboard.xlsx)
+- **Dashboard:** `sales_dashboard.xlsx` (sales_dashboard.xlsx)
 
 ## 🚀 Future Improvements
 - 🔹 Enhance dashboard with conditional formatting for better trend visualization.
