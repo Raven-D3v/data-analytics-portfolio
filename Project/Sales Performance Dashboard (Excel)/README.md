@@ -9,6 +9,8 @@
 - **Tools Used:** Microsoft Excel (Pivot Tables, Pivot Charts, Slicers)
 - **Dataset:** Custom-created e-commerce sales dataset
 
+![Sales Dataset](dataset.png)
+
 ## 🔍 Key Insights
 - 🔹 **Monthly Sales Trends:** Identified peak sales days and low-performing periods.
 - 🔹 **Top-Selling Products:** Determined the best-performing products based on revenue.
@@ -16,8 +18,8 @@
 - 🔹 **Dynamic Filters:** Enabled interactive data exploration through slicers (Year, Product, Customer).
 
 ## 📊 Project Files
-- **Dataset:** [View Dataset](sales_dashboard.xlsx)
-- **Dashboard:** [View Dashboard](sales_dashboard.xlsx)
+- **Dataset:** [Download Dataset](sales_dashboard.xlsx)
+- **Dashboard:** [Download Dashboard](sales_dashboard.xlsx)
 
 ## 🚀 Future Improvements
 - 🔹 Enhance dashboard with conditional formatting for better trend visualization.
