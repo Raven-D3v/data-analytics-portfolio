@@ -16,7 +16,7 @@
 
 ## 📊 Project Files
 - **Dataset:** `sales_dashboard.xlsx` (sales_dashboard.xlsx)
-- **Dashboard:** `sales_dashboard.xlsx` (sales_dashboard.xlsx)
+- **Dashboard:** [View Dashboard](sales_dashboard.xlsx)
 
 ## 🚀 Future Improvements
 - 🔹 Enhance dashboard with conditional formatting for better trend visualization.
