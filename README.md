@@ -10,7 +10,7 @@ This portfolio showcases my projects, skills, and learning progress.
 - **Python & Machine Learning** 🤖: Basic Exploratory Analysis  
 
 ## 📂 Featured Projects:
-1. **[Sales Data Analysis (Excel)](Project\Sales Performance Dashboard - MS Excel/README.md)**
+1. **[Sales Data Analysis (Excel)](Project/Sales Performance Dashboard - MS Excel/README.md)**
 <!---- 2. **[Customer Segmentation (SQL & Tableau)](Projects/Project-2/README.md)** ---->
 <!----- 3. **[Predictive Modeling (Python)](Projects/Project-3/README.md)** ---->
 
