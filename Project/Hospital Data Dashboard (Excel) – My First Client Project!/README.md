@@ -1,4 +1,4 @@
-# 🏥 Hospital Data Dashboard
+# 🏥 Hospital Data Dashboard - First Freelance Project
 
 ![Hospital Dashboard](hospital_dashboard.png)
 
@@ -17,8 +17,8 @@
 - 🔹 **Waiting Time Metrics:** Evaluated average waiting times per month.
 
 ## 📊 Project Files
-- **Dataset:** [Download Modified Dataset](Public_Hospital_Dataset-JAN-FEB-2025 3.csv)
-- **Dashboard:** [Download Dashboard](Public_Dashboard_Hospital-JAN-FEB-2025 3.xlsx)
+- **Dataset:** [Download Modified Dataset](https://github.com/Raven-D3v/data-analytics-portfolio/blob/0c79d40a6e1fb08964d930ac3667fb60637585af/Project/Hospital%20Data%20Dashboard%20(Excel)%20%E2%80%93%20My%20First%20Client%20Project!/Hospital_Dataset-JAN-FEB-2025.csv)
+- **Dashboard:** [Download Dashboard](https://github.com/Raven-D3v/data-analytics-portfolio/blob/0c79d40a6e1fb08964d930ac3667fb60637585af/Project/Hospital%20Data%20Dashboard%20(Excel)%20%E2%80%93%20My%20First%20Client%20Project!/Hospital_Dashboard-JAN-FEB-2025.xlsx)
 
 ## 🚀 Future Improvements
 - 🔹 Refine dashboard layout for better readability and data visualization.
