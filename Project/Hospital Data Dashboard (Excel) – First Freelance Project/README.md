@@ -7,7 +7,8 @@
 🔹 This is my **first Excel dashboard project for a client**, analyzing hospital patient data with **2,570 rows**.  
 🔹 **Confidential data has been removed** to ensure privacy while maintaining valuable insights.  
 🔹 This project is a **real-world data analysis case** in the healthcare industry, providing hands-on experience in data analytics.  
-🔹 The dashboard layout will be **further improved** soon based on insights and feedback.
+🔹 The dashboard layout will be **further improved** soon based on insights and feedback. <br>
+🔹 The **color scheme used in the dashboard was specifically requested by the client** to align with their branding and preferences.
 
 ### **Project Goal:**
 
