@@ -11,6 +11,7 @@ This portfolio showcases my projects, skills, and learning progress.
 
 ## 📂 Featured Projects:
 1. **[Sales Performance Dashboard (Excel)](Project/Sales%20Performance%20Dashboard%20(Excel)/README.md)**
+2. **[Hospital Data Dashboard (Excel) – First Freelance Project](/Project/Hospital%20Data%20Dashboard%20(Excel)%20%E2%80%93%20First%20Freelance%20Project/README.md)**
 <!---- 2. **[Customer Segmentation (SQL & Tableau)](Projects/Project-2/README.md)** ---->
 <!----- 3. **[Predictive Modeling (Python)](Projects/Project-3/README.md)** ---->
 
