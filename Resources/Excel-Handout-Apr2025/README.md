@@ -15,8 +15,8 @@ This PDF handout is designed to help beginners and professionals alike understan
 ## Who is this for?
 
 - New Excel users who need a quick-start reference  
-- Students and professionals learning data analysis  
-- Clients who attended my Excel training sessions  
+- Students and professionals learning Excel formulas and functions
+- Self-learners looking to reinforce their understanding of functions
 - Anyone who wants to work smarter with formulas
 
 ---
