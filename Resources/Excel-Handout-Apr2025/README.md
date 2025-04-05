@@ -35,8 +35,8 @@ This PDF handout is designed to help beginners and professionals alike understan
 
 ## Author
 
-Created by RavenKlein T. Rubin – Excel & Data Analytics Freelancer  
-Feel free to connect with me on [LinkedIn](https://linkedin.com/in/yourprofile) or check out more projects in this repo!
+Created by RavenKlein T. Rubin – Aspiring Data Analyst & Freelancer  
+Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/raven-klein-r-8705222b6?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app) or check out more projects in this repo!
 
 ---
 
