@@ -23,14 +23,13 @@ This PDF handout is designed to help beginners and professionals alike understan
 
 ## Preview
 
-![Excel Handout Preview](preview-image-placeholder.png)  
-*Replace this image with a screenshot of your handout if you'd like*
+![Excel Handout Preview](Excel-Handout2025.jpg)  
 
 ---
 
 ## Download
 
-[Download the PDF here](./Excel_Basic_Functions_&_Formula_Symbols_Apr2025_Project_Raven_&.pdf)
+[Download the PDF here](https://github.com/Raven-D3v/data-analytics-portfolio/blob/fba720e2bf0bbf72fc2b0f8ae81f4cd8da7d4a48/Resources/Excel-Handout-Apr2025/Excel_Basic_Functions_%26_Formula_Symbols_Apr2025_Project_Raven_%26.pdf)
 
 ---
 
