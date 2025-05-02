@@ -37,8 +37,8 @@
 
 ## 📊 Project Files
 
-- 📊 **Dashboard:** [Download V2 Dashboard](https://github.com/Raven-D3v/data-analytics-portfolio/blob/main/Project/Hospital%20Data%20Dashboard%20V2/Hospital_Dashboard_V2.xlsx)  
-- 📁 **Dataset:** [Download V2 Dataset](https://github.com/Raven-D3v/data-analytics-portfolio/blob/main/Project/Hospital%20Data%20Dashboard%20V2/Hospital_Dataset_V2.csv)
+- 📊 **Dashboard:** [Download V2 Dashboard](https://github.com/Raven-D3v/data-analytics-portfolio/blob/05da85437f9ce001909ac6c4f22f3f211dc19020/Project/Hospital%20Data%20Dashboard%20(Excel)%20V2%20%E2%80%93%20BETTER%20DASHBOARD!!/Public_Dashboard_Hospital-V2.xlsx)  
+- 📁 **Dataset:** [Download V2 Dataset](https://github.com/Raven-D3v/data-analytics-portfolio/blob/05da85437f9ce001909ac6c4f22f3f211dc19020/Project/Hospital%20Data%20Dashboard%20(Excel)%20V2%20%E2%80%93%20BETTER%20DASHBOARD!!/Public_Datasest_Hospital-V2.csv)
 
 ## 🚀 Future Improvements
 
