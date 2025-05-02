@@ -1,6 +1,6 @@
 # 🏥 Hospital Data Dashboard V2 - BETTER DASHBOARD!!
 
-[Hospital Dashboard V2](dashboard.png)
+![Hospital Dashboard V2](dashboard.png)
 
 ## 📌 Overview
 
