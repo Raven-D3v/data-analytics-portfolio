@@ -1,6 +1,6 @@
 # 🏥 Hospital Data Dashboard V2 - Upgraded Real-World Project
 
-![Hospital Dashboard V2](hospital_dashboard_v2.png)
+![Hospital Dashboard V2](dashboard.png)
 
 ## 📌 Overview
 
@@ -9,6 +9,7 @@
 🔹 **Sensitive patient data has been removed** to protect privacy while preserving analytics value.  
 🔹 This project reflects **hands-on learning** and application of dashboard principles from real feedback and Excel experts.  
 🔹 Dashboard was enhanced with techniques learned from **Kenji Explains’ Excel Dashboard Tutorial**.  
+--> 🎥 [Watch Kenji Explains' Dashboard tutorial here!](https://youtu.be/jeYjtEX3RAE?si=IXHb0DyGsq4Sx3kd&t=726)
 
 ### **Project Goal:**
 
@@ -25,7 +26,7 @@
 ### **Dataset:**
 
 🗂 **Cleaned hospital outpatient dataset** for January–February 2025  
-![Hospital Dataset V2](hospital_dataset_v2.png)
+![Hospital Dataset V2](dataset.png)
 
 ## 🔍 Key Insights
 
