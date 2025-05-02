@@ -40,12 +40,6 @@
 - 📊 **Dashboard:** [Download V2 Dashboard](https://github.com/Raven-D3v/data-analytics-portfolio/blob/05da85437f9ce001909ac6c4f22f3f211dc19020/Project/Hospital%20Data%20Dashboard%20(Excel)%20V2%20%E2%80%93%20BETTER%20DASHBOARD!!/Public_Dashboard_Hospital-V2.xlsx)  
 - 📁 **Dataset:** [Download V2 Dataset](https://github.com/Raven-D3v/data-analytics-portfolio/blob/05da85437f9ce001909ac6c4f22f3f211dc19020/Project/Hospital%20Data%20Dashboard%20(Excel)%20V2%20%E2%80%93%20BETTER%20DASHBOARD!!/Public_Datasest_Hospital-V2.csv)
 
-## 🚀 Future Improvements
-
-✅ Explore more Excel automation using Power Query.  
-✅ Add patient age and doctor-related insights in future versions.  
-✅ Clean the dataset faster using macros or scripts.  
-
 ---
 
 This project is a continuation of my **real-world healthcare dashboarding journey**, providing more experience in **data storytelling, slicer-based interactivity**, and **client-ready Excel design**.
@@ -70,10 +64,6 @@ I'm open for:
 ## 🔗 Connect with Me
 
 - TikTok: [@project_raven2024](https://www.tiktok.com/@project_raven2024)  
-- LinkedIn: [Your LinkedIn Profile]  
-- GitHub: [Your GitHub Profile]  
-
-## #️⃣ Hashtags
-
-`#Excel` `#DataAnalytics` `#Dashboard` `#HospitalData` `#ExcelTutorial`  
-`#project_raven2024` `#LearningJourney` `#KenjiExplains`
+- LinkedIn: [Raven Klein Rubin](https://www.linkedin.com/in/raven-klein-r-8705222b6)
+- G-Mail: raven.dev2024@gmail.com
+- Other Social Accounts: [Linktree](https://linktr.ee/projectRaven)  
