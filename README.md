@@ -12,6 +12,7 @@ This portfolio showcases my projects, skills, and learning progress.
 ## 📂 Featured Projects:
 1. **[Sales Performance Dashboard (Excel)](Project/Sales%20Performance%20Dashboard%20(Excel)/README.md)**
 2. **[Hospital Data Dashboard (Excel) – First Freelance Project](/Project/Hospital%20Data%20Dashboard%20(Excel)%20%E2%80%93%20First%20Freelance%20Project/README.md)**
+3. **[Hospital Data Dashboard (Excel) V2 – BETTER DASHBOARD!!](https://github.com/Raven-D3v/data-analytics-portfolio/tree/941a03dc76cc376cd529a5d3e8d6a454fe693a92/Project/Hospital%20Data%20Dashboard%20(Excel)%20V2%20%E2%80%93%20BETTER%20DASHBOARD!!)**
 <!---- 2. **[Customer Segmentation (SQL & Tableau)](Projects/Project-2/README.md)** ---->
 <!----- 3. **[Predictive Modeling (Python)](Projects/Project-3/README.md)** ---->
 
