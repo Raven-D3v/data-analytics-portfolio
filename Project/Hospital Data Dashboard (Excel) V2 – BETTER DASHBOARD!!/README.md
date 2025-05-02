@@ -7,6 +7,7 @@
 🔹 This is the **second version of my first Excel dashboard project**, upgraded to improve layout, slicers, and data storytelling.  
 🔹 Built using **real-world hospital outpatient data** with **2,570+ rows**.  
 🔹 **Sensitive patient data has been removed** to protect privacy while preserving analytics value.  
+🔹 All **Address data was anonymized and creatively modified using ChatGPT** to retain geographic patterns while ensuring confidentiality.  
 🔹 This project reflects **hands-on learning** and application of dashboard principles from real feedback and Excel experts.  
 🔹 Dashboard was enhanced with techniques learned from **Kenji Explains’ Excel Dashboard Tutorial**.  
 --> 🎥 [Watch Kenji Explains' Dashboard tutorial here!](https://youtu.be/jeYjtEX3RAE?si=IXHb0DyGsq4Sx3kd&t=726)
