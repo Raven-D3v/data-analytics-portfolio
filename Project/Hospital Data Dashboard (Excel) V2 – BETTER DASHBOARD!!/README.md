@@ -1,4 +1,4 @@
-# 🏥 Hospital Data Dashboard V2 - Upgraded Real-World Project
+# 🏥 Hospital Data Dashboard V2 - BETTER DASHBOARD!!
 
 ![Hospital Dashboard V2](dashboard.png)
 
