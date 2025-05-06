@@ -15,12 +15,39 @@ This repository serves as a centralized **showcase of my growth**, projects, and
 
 ---
 
-## 🗂️ Project Categories
+## 🗂️ Projects
 
-### 📊 Data Analytics Projects
-- **[Sales Performance Dashboard (Excel)](Project/Sales%20Performance%20Dashboard%20(Excel)/README.md)**  
-- **[Hospital Data Dashboard (Excel) – First Freelance Project](/Project/Hospital%20Data%20Dashboard%20(Excel)%20%E2%80%93%20First%20Freelance%20Project/README.md)**  
-- **[Hospital Data Dashboard (Excel) V2 – BETTER DASHBOARD!!](https://github.com/Raven-D3v/data-analytics-portfolio/blob/941a03dc76cc376cd529a5d3e8d6a454fe693a92/Project/Hospital%20Data%20Dashboard%20(Excel)%20V2%20%E2%80%93%20BETTER%20DASHBOARD!!/README.md)**  
+<details>
+<summary>📊 <strong>Data Analytics Projects</strong></summary>
+
+<table>
+  <thead>
+    <tr>
+      <th>Project</th>
+      <th>Description</th>
+      <th>Preview</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href="Project/Sales%20Performance%20Dashboard%20(Excel)/README.md">Sales Performance Dashboard (Excel)</a></td>
+      <td>Interactive dashboard to analyze regional sales KPIs</td>
+      <td><img src="https://github.com/Raven-D3v/data-analytics-portfolio/blob/495052c1d8669df0d96bcbd080c2274aa2129112/Project/Sales%20Performance%20Dashboard%20(Excel)/sales_dashboard.png" width="300"/></td>
+    </tr>
+    <tr>
+      <td><a href="Project/Hospital%20Data%20Dashboard%20(Excel)%20%E2%80%93%20First%20Freelance%20Project/README.md">Hospital Data Dashboard – Freelance v1</a></td>
+      <td>Visual report built for client’s hospital dataset</td>
+      <td><img src="https://github.com/Raven-D3v/data-analytics-portfolio/blob/495052c1d8669df0d96bcbd080c2274aa2129112/Project/Hospital%20Data%20Dashboard%20(Excel)%20%E2%80%93%20First%20Freelance%20Project/hospital_dashboard.png" width="300"/></td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/Raven-D3v/data-analytics-portfolio/blob/941a03dc76cc376cd529a5d3e8d6a454fe693a92/Project/Hospital%20Data%20Dashboard%20(Excel)%20V2%20%E2%80%93%20BETTER%20DASHBOARD!!/README.md">Hospital Data Dashboard – v2 (Improved)</a></td>
+      <td>Redesigned, cleaner insights dashboard</td>
+      <td><img src="https://github.com/Raven-D3v/data-analytics-portfolio/blob/495052c1d8669df0d96bcbd080c2274aa2129112/Project/Hospital%20Data%20Dashboard%20(Excel)%20V2%20%E2%80%93%20BETTER%20DASHBOARD!!/dashboard.png" width="300"/></td>
+    </tr>
+  </tbody>
+</table>
+
+</details>
 
 <!---
 ### 🤖 AI & Machine Learning Projects
@@ -39,7 +66,7 @@ This repository serves as a centralized **showcase of my growth**, projects, and
 
 ## 📜 Certifications
 
-**[See my certifications here!](https://github.com/Raven-D3v/data-analytics-portfolio/blob/fbd7b1daec067fd04d8ace23a2578c42f8462e41/Certificates/README.md)** 
+🎓 **[View my certifications](https://github.com/Raven-D3v/data-analytics-portfolio/blob/fbd7b1daec067fd04d8ace23a2578c42f8462e41/Certificates/README.md)**
 
 ---
 
@@ -99,5 +126,5 @@ This repository serves as a centralized **showcase of my growth**, projects, and
 
 ---
 
-> 💡 *“Keep Moving Forward” – My core mindset, in code and in life.*
+> 💡 *“Keep Moving Forward”*
 
