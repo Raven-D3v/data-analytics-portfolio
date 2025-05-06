@@ -31,18 +31,18 @@ This repository serves as a centralized **showcase of my growth**, projects, and
   <tbody>
     <tr>
       <td><a href="https://github.com/Raven-D3v/data-analytics-portfolio/blob/941a03dc76cc376cd529a5d3e8d6a454fe693a92/Project/Hospital%20Data%20Dashboard%20(Excel)%20V2%20%E2%80%93%20BETTER%20DASHBOARD!!/README.md">Hospital Data Dashboard – v2 (Improved)</a></td>
-      <td>Redesigned, cleaner insights dashboard</td>
-      <td><img src="https://github.com/Raven-D3v/data-analytics-portfolio/blob/495052c1d8669df0d96bcbd080c2274aa2129112/Project/Hospital%20Data%20Dashboard%20(Excel)%20V2%20%E2%80%93%20BETTER%20DASHBOARD!!/dashboard.png" width="300"/></td>
+      <td>Upgraded Excel dashboard using real hospital outpatient data (2,570+ rows), redesigned with improved layout, slicers, and storytelling based on expert feedback and real-world application.</td>
+      <td><img src="https://github.com/Raven-D3v/data-analytics-portfolio/blob/495052c1d8669df0d96bcbd080c2274aa2129112/Project/Hospital%20Data%20Dashboard%20(Excel)%20V2%20%E2%80%93%20BETTER%20DASHBOARD!!/dashboard.png" width="500"/></td>
     </tr>
     <tr>
       <td><a href="Project/Hospital%20Data%20Dashboard%20(Excel)%20%E2%80%93%20First%20Freelance%20Project/README.md">Hospital Data Dashboard – Freelance v1</a></td>
-      <td>Visual report built for client’s hospital dataset</td>
-      <td><img src="https://github.com/Raven-D3v/data-analytics-portfolio/blob/495052c1d8669df0d96bcbd080c2274aa2129112/Project/Hospital%20Data%20Dashboard%20(Excel)%20%E2%80%93%20First%20Freelance%20Project/hospital_dashboard.png" width="300"/></td>
+      <td>First client-based Excel dashboard project analyzing 2,570 rows of hospital data, built with custom branding and focused on patient flow, service types, and waiting time insights.</td>
+      <td><img src="https://github.com/Raven-D3v/data-analytics-portfolio/blob/495052c1d8669df0d96bcbd080c2274aa2129112/Project/Hospital%20Data%20Dashboard%20(Excel)%20%E2%80%93%20First%20Freelance%20Project/hospital_dashboard.png" width="500"/></td>
     </tr>
     <tr>
       <td><a href="Project/Sales%20Performance%20Dashboard%20(Excel)/README.md">Sales Performance Dashboard (Excel)</a></td>
-      <td>Interactive dashboard to analyze regional sales KPIs</td>
-      <td><img src="https://github.com/Raven-D3v/data-analytics-portfolio/blob/495052c1d8669df0d96bcbd080c2274aa2129112/Project/Sales%20Performance%20Dashboard%20(Excel)/sales_dashboard.png" width="300"/></td>
+      <td>My first Excel dashboard project using a custom e-commerce dataset to analyze monthly sales trends, top-performing products, and high-value customers through pivot charts and slicers.</td>
+      <td><img src="https://github.com/Raven-D3v/data-analytics-portfolio/blob/495052c1d8669df0d96bcbd080c2274aa2129112/Project/Sales%20Performance%20Dashboard%20(Excel)/sales_dashboard.png" width="500"/></td>
     </tr>
   </tbody>
 </table>
