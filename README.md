@@ -73,11 +73,11 @@ This repository serves as a centralized **showcase of my growth**, projects, and
 ## 🧠 Skills & Tools
 
 - **Data Analytics**: Excel, SQL, Tableau, Power BI  
-- **Programming & Scripting**: Python, JavaScript  
+- **Programming & Scripting**: Python, C++  
 - **AI & Machine Learning**: scikit-learn, pandas, Jupyter  
 - **Web Development**: HTML, CSS, JavaScript, Django  
-- **Automation & Bots**: Botpress, Dialogflow  
-- **Others**: Git, GitHub, Canva, Trello
+- **Automation & Bots**: Botpress, ManyChat  
+- **Others**: Git, GitHub, Canva
 
 ### 💻 Tech Stack   
 <p align="center">
