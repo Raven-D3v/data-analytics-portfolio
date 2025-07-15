@@ -20,6 +20,25 @@ This repository serves as a centralized **showcase of my growth**, projects, and
 <details>
 <summary>📊 <strong>Data Analytics Projects</strong></summary>
 
+<h3>Tableau</h3>
+<table>
+  <thead>
+    <tr>
+      <th>Project</th>
+      <th>Description</th>
+      <th>Preview</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href="https://github.com/Raven-D3v/data-analytics-portfolio/blob/941a03dc76cc376cd529a5d3e8d6a454fe693a92/Project/Hospital%20Data%20Dashboard%20(Excel)%20V2%20%E2%80%93%20BETTER%20DASHBOARD!!/README.md">Hospital Data Dashboard – v2 (Improved)</a></td>
+      <td>Upgraded Excel dashboard using real hospital outpatient data (2,570+ rows), redesigned with improved layout, slicers, and storytelling based on expert feedback and real-world application.</td>
+      <td><img src="https://github.com/Raven-D3v/data-analytics-portfolio/blob/495052c1d8669df0d96bcbd080c2274aa2129112/Project/Hospital%20Data%20Dashboard%20(Excel)%20V2%20%E2%80%93%20BETTER%20DASHBOARD!!/dashboard.png" width="500"/></td>
+    </tr>
+  </tbody>
+</table>
+
+<h3>Excel</h3>
 <table>
   <thead>
     <tr>
