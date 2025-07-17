@@ -36,15 +36,15 @@
 
 ## 🔍 Key Insights
 
-🔹 **Top Candidates per Province:** See who's leading where.  
-🔹 **Vote Share Percentages:** Know how each candidate performed relative to the total vote.  
+🔹 **Top Candidates per Province or Region:** See who's leading where.  
+🔹 **Vote Share Value:** Know how each candidate performed relative to the total vote.  
 🔹 **Vote Margin Visualization:** View how close or wide margins are between selected president vs top candidate.  
-🔹 **Top 3 Candidate Rankings:** Auto-calculated rankings by vote percentage per province.  
-🔹 **Interactivity:** Users can explore results dynamically through province & president selection.
+🔹 **Top Candidate Rankings:** Auto-calculated rankings by vote percentage per province.  
+🔹 **Interactivity:** Users can explore results dynamically through province, region & president selection.
 
 ## 📊 Project Files
 
-- 📈 **Tableau Dashboard:** [View on Tableau Public](https://public.tableau.com/app/profile/your-profile-name/viz/2022ElectionAnalysis-Dashboard/MainView)  
+- 📈 **Tableau Dashboard:** [View on Tableau Public](https://public.tableau.com/views/Philippines2022PresidentialElection-Analysis/Dashboard?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)  
 - 📁 **Dataset (source):** [Download from Figshare](https://figshare.com/articles/dataset/2022_Presidential_Elections_Data/19755469)
 
 ---
