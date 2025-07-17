@@ -44,7 +44,8 @@
 
 ## 📊 Project Files
 
-- 📈 **Tableau Dashboard:** [View on Tableau Public](https://public.tableau.com/views/Philippines2022PresidentialElection-Analysis/Dashboard?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)  
+- 📈 **Tableau Dashboard:** [View on Tableau Public](https://public.tableau.com/views/Philippines2022PresidentialElection-Analysis/Dashboard?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link) <br>
+  (Better view on Full Screen) <br><br>
 - 📁 **Dataset (source):** [Download from Figshare](https://figshare.com/articles/dataset/2022_Presidential_Elections_Data/19755469)
 
 ---
