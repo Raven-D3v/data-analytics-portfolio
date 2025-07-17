@@ -32,7 +32,7 @@
 - Cleaned and structured manually (non-pivoted and pivoted versions used)
 - Contains 105,971 rows, with 17 columns
 
-![Election Dataset](dataset.png)
+![Election Dataset](https://github.com/Raven-D3v/data-analytics-portfolio/blob/fc193eab56d6a76089fe04981d0fe27afee4156b/Project/Tableau/Philippines%202022%20Presidential%20Election%20-%20Analysis/Src/PhElect2022-Tableau-dataset.png)
 
 ## 🔍 Key Insights
 
