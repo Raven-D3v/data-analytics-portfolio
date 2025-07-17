@@ -71,5 +71,5 @@ I'm open for:
 - Facebook: [Project Raven](https://www.facebook.com/people/Project-Raven/61562294530876/)
 - TikTok: [@project_raven2024](https://www.tiktok.com/@project_raven2024)  
 - LinkedIn: [Raven Klein Rubin](https://www.linkedin.com/in/raven-klein-r-8705222b6)  
-- G-Mail: raven.dev2024@gmail.com  
+- G-Mail: project.raven2024@gmail.com  
 - Other Social Accounts: [Linktree](https://linktr.ee/projectRaven)
