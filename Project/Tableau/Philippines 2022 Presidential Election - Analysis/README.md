@@ -5,16 +5,15 @@
 ## 📌 Overview
 
 🔹 This project analyzes the **2022 Philippine Presidential Election** using **Tableau Public**.  
-🔹 Focused on **interactive data exploration** — users can **filter by province**, view **vote shares**, **vote margins**, and **identify top 3 candidates** per province.  
+🔹 Focused on **interactive data exploration** — users can **filter by province and region**, view **vote shares**, and **identify top candidates**.  
 🔹 Built with a clean design to support **data storytelling**, interactivity, and user insight.  
-🔹 Used real election data from an open dataset hosted on **Figshare**.  
+🔹 Used real election data from an open dataset hosted on **Figshare**, consisting of **105,972 rows** of datas.  
 🔹 Developed as a learning project to apply **Level of Detail (LOD) calculations**, **dynamic filters**, and **non-pivot comparisons** in Tableau.
 
 ### **Project Goal:**
 
 📊 Build a fully **interactive Tableau dashboard** that enables users to:  
 - Identify top-performing candidates by region  
-- Analyze vote percentage and margins  
 - Compare candidate votes side-by-side  
 - Select any president and instantly update the views
 
@@ -23,15 +22,15 @@
 🛠 **Tableau Public**  
 - Level of Detail (LOD) Calculations  
 - Interactive Filters  
-- Parameter Controls  
 - Dual Data Sources (non-pivot & pivot)  
 - Custom Calculated Fields  
 
 ### **Dataset:**
 
 🗂 [2022 Philippine Presidential Elections Dataset (Figshare)](https://figshare.com/articles/dataset/2022_Presidential_Elections_Data/19755469?file=35101492)  
-- Contains granular vote data per province and candidate  
-- Cleaned and structured manually (non-pivoted and pivoted versions used)  
+- Contains granular precinct-level voting data per barangay, city/municipality, province, and region
+- Cleaned and structured manually (non-pivoted and pivoted versions used)
+- Contains 105,971 rows, with 17 columns
 
 ![Election Dataset](dataset.png)
 
