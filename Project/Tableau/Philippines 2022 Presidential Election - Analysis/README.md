@@ -1,4 +1,4 @@
-# Philippines 2022 Presidential Election – INTERACTIVE ANALYSIS DASHBOARD
+# Philippines 2022 Presidential Election – TABLEAU INTERACTIVE DASHBOARD
 
 ![Philippines Election Dashboard](https://github.com/Raven-D3v/data-analytics-portfolio/blob/eecb319c4ecdaa3ba825e65ce6f04a51ebd7ccd3/Project/Tableau/Philippines%202022%20Presidential%20Election%20-%20Analysis/Src/PhElect2022-Tableau-dashboard.png)
 
