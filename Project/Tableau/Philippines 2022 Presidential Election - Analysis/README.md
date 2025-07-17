@@ -53,21 +53,22 @@ This project marks a significant milestone in my **data storytelling journey**, 
 
 ## 🎥 Live Progress
 
-🟢 **Parts of this dashboard were developed live** on TikTok to share the process of Tableau visualization, field calculation, and layout refinement.  
+🟢 **Parts of this dashboard were developed live** on Facebook to share the process of Tableau visualization, field calculation, and layout refinement.  
 ⏰ Catch live builds or replays at **10PM (PHT)**  
-📱 Follow me: [@project_raven2024](https://www.tiktok.com/@project_raven2024)
+📱 Follow me: [Project Raven (FB)](https://www.facebook.com/people/Project-Raven/61562294530876/)
 
 ## 💬 Work With Me
 
 I'm open for:
 - 📊 **Tableau Dashboard Commissions**  
-- 🧠 **Tutorial Sessions on Tableau or Data Viz**  
-- 🔍 **Election or Public Data Analytics Projects**
+- 🧠 **Tutorial Sessions on Tableau**  
+- 🔍 **Election, Geographic or Public Data Analytics Projects**
 
-📩 Message me on TikTok, GitHub, or LinkedIn if you're interested!
+📩 Message me on Facebook, TikTok, GitHub, or LinkedIn!
 
 ## 🔗 Connect with Me
 
+- Facebook: [Project Raven](https://www.facebook.com/people/Project-Raven/61562294530876/)
 - TikTok: [@project_raven2024](https://www.tiktok.com/@project_raven2024)  
 - LinkedIn: [Raven Klein Rubin](https://www.linkedin.com/in/raven-klein-r-8705222b6)  
 - G-Mail: raven.dev2024@gmail.com  
