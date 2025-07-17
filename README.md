@@ -31,9 +31,9 @@ This repository serves as a centralized **showcase of my growth**, projects, and
   </thead>
   <tbody>
     <tr>
-      <td><a href="https://github.com/Raven-D3v/data-analytics-portfolio/blob/941a03dc76cc376cd529a5d3e8d6a454fe693a92/Project/Hospital%20Data%20Dashboard%20(Excel)%20V2%20%E2%80%93%20BETTER%20DASHBOARD!!/README.md">Hospital Data Dashboard – v2 (Improved)</a></td>
-      <td>Upgraded Excel dashboard using real hospital outpatient data (2,570+ rows), redesigned with improved layout, slicers, and storytelling based on expert feedback and real-world application.</td>
-      <td><img src="https://github.com/Raven-D3v/data-analytics-portfolio/blob/495052c1d8669df0d96bcbd080c2274aa2129112/Project/Hospital%20Data%20Dashboard%20(Excel)%20V2%20%E2%80%93%20BETTER%20DASHBOARD!!/dashboard.png" width="500"/></td>
+      <td><a href="https://github.com/Raven-D3v/data-analytics-portfolio/blob/9842b0f926fe7fabf27e5782f610fbcb70c3cccb/Project/Tableau/Philippines%202022%20Presidential%20Election%20-%20Analysis/README.md">Philippines 2022 Presidential Election – TABLEAU INTERACTIVE DASHBOARD</a></td>
+      <td>Interactive Tableau dashboard analyzing the 2022 Philippine presidential election using precinct-level data (105K+ rows), featuring dynamic filters, vote margins, and candidate comparisons for data-driven storytelling.</td>
+      <td><img src="https://github.com/Raven-D3v/data-analytics-portfolio/blob/9842b0f926fe7fabf27e5782f610fbcb70c3cccb/Project/Tableau/Philippines%202022%20Presidential%20Election%20-%20Analysis/Src/PhElect2022-Tableau-dashboard.png" width="700"/></td>
     </tr>
   </tbody>
 </table>
