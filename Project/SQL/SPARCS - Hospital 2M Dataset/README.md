@@ -1,5 +1,7 @@
 # SPARCS - Hospital 2-Million Dataset
 
+![Hospital Dashboard V2](dashboard.png)
+
 ## 📌 Project Overview
 
 This project explores the **New York Statewide Planning and Research Cooperative System (SPARCS)** dataset, containing over **2 million hospital inpatient discharge records**.
@@ -14,23 +16,23 @@ The goal of this project is to demonstrate the use of **SQL queries** for analyz
 
 ## 📊 Key Analyses
 
-* Patient distribution across facilities.
-* Insurance type breakdown by patient demographics.
-* Top hospitals by patient volume.
-* Department-level efficiency indicators.
+* Hospital Efficiency KPIs
+* Revenue & Cost Insights
+* Patient Demographic Patterns
 
 ## 📂 Dataset
 
-The dataset used in this project is from the **New York State Department of Health – SPARCS Hospital Inpatient Discharges (De-Identified)**.
+**New York State Department of Health – SPARCS Hospital Inpatient Discharges (De-Identified)**.
 
-🔗 [Dataset Link](https://health.data.ny.gov/Health/Hospital-Inpatient-Discharges-SPARCS-De-Identified/gnzp-ekau/about_data)
+🔗 [Dataset Link (800+MB)](https://health.data.ny.gov/d/gnzp-ekau)
 
 ## 🚀 How to Access the Project
 
-You can explore the project directly in Google Colab:
-👉 [Open in Google Colab](YOUR_COLAB_LINK_HERE) *(replace with your shareable view link)*
+You can explore the project directly in **Google Colab**: <br>
+👉 [Open in Google Colab](https://colab.research.google.com/drive/16vVF4Mv9EUjtuC9yZyd9nt5WzNINmcNA?usp=sharing) 
 
 ## 📌 Notes
 
 * The project is focused on **SQL query applications** for healthcare data analysis.
 * Visualizations and dashboards are not the primary focus; instead, the emphasis is on extracting insights through queries.
+
