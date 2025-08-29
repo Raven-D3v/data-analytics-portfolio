@@ -26,7 +26,8 @@ The goal of this project is to demonstrate the use of **SQL queries** for analyz
 
 **New York State Department of Health – SPARCS Hospital Inpatient Discharges (De-Identified)**.
 
-🔗 [Dataset Link (800+MB)](https://health.data.ny.gov/d/gnzp-ekau)
+🔗 Dataset Link (800+MB): https://health.data.ny.gov/d/gnzp-ekau <br>
+(Clicking the link will trigger an error, copy it then paste it to your browser)
 
 ## 🚀 How to Access the Project
 
@@ -37,6 +38,7 @@ You can explore the project directly in **Google Colab**: <br>
 
 * The project is focused on **SQL query applications** for healthcare data analysis.
 * Visualizations and dashboards are not the primary focus; instead, the emphasis is on extracting insights through queries.
+
 
 
 
