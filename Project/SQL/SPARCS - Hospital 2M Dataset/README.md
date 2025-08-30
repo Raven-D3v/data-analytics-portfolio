@@ -16,11 +16,12 @@ The goal of this project is to demonstrate the use of **SQL queries** for analyz
 * **DuckDB:** Chosen because it fits seamlessly with the Python environment of Google Colab, allowing efficient SQL queries directly on large datasets without needing a full database server.
 * **Pandas**: For additional data manipulation.
 
-## 📊 Key Analyses
+## 📊 Key Analysis
 
 * Hospital Efficiency KPIs
 * Revenue & Cost Insights
-* Patient Demographic Patterns
+* Patient Demographic Patterns <br>
+*(See Details in the Project Link Below)* 
 
 ## 🔍 Sample SQL Queries (Using DuckDB)
 
@@ -74,12 +75,13 @@ You can explore the project directly in **Google Colab**: <br>
 **New York State Department of Health – SPARCS Hospital Inpatient Discharges (De-Identified)**.
 
 🔗 Dataset Link (800+MB): https://health.data.ny.gov/d/gnzp-ekau <br>
-(Clicking the link will trigger an error, copy it then paste it to your browser)
+*(Clicking the link will trigger an error, copy it then paste it to your browser)*
 
 ## 📌 Notes
 
 * The project is focused on **SQL query applications** for healthcare data analysis.
 * Visualizations and dashboards are not the primary focus; instead, the emphasis is on extracting insights through queries.
+
 
 
 
