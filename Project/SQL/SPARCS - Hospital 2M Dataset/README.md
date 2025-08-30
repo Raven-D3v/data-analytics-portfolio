@@ -38,9 +38,8 @@ You can explore the project directly in **Google Colab**: <br>
 
 Below are a few representative queries used in this project.  
 
-### 📌 Example 1 – Avg. Length of Stay per Facilty
+### 📌 Example 1 – Avg. Length of Stay per Facility
 ```sql
--- Count patients by insurance type and patient category
 duckdb.sql(f"""
     SELECT "Facility Name", ROUND(AVG(CAST(REPLACE("Length of Stay", '+', '')AS DOUBLE)),2) AS "Avg. Patient Length of Stay"
     FROM read_csv_auto('{csv_path}')
@@ -49,10 +48,37 @@ duckdb.sql(f"""
 """).df()
 ```
 
+### 📌 Example 2 – Average charge per payment method (e.g., Medicaid, Private)
+```sql
+duckdb.sql(f"""
+    SELECT "Payment Typology 1" AS "Payment Method",
+    AVG("Total Charges") AS "Average Charges",
+    COUNT("Payment Typology 1") AS "Patients"
+    FROM read_csv_auto('{csv_path}')
+    GROUP BY "Payment Typology 1"
+""").df()
+```
+### 📌 Example 3 – Gender trends in high-volume departments
+```sql
+duckdb.sql(f"""
+    SELECT
+      "Facility Id",
+      "Facility Name",
+      SUM(CASE WHEN "Gender" = 'M' THEN 1 ELSE 0 END) AS M,
+      SUM(CASE WHEN "Gender" = 'F' THEN 1 ELSE 0 END) AS F,
+      SUM(CASE WHEN "Gender" = 'U' THEN 1 ELSE 0 END) AS U,
+      COUNT(*) AS Total_Patients
+    FROM read_csv_auto('{csv_path}')
+    GROUP BY "Facility Id", "Facility Name"
+    ORDER BY "Total_Patients" DESC
+""").df()
+```
+
 ## 📌 Notes
 
 * The project is focused on **SQL query applications** for healthcare data analysis.
 * Visualizations and dashboards are not the primary focus; instead, the emphasis is on extracting insights through queries.
+
 
 
 
