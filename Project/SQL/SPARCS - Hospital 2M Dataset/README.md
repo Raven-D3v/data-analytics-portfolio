@@ -1,4 +1,4 @@
-# SPARCS - Hospital 2-Million Dataset
+# SPARCS SQL Insights: Analyzing 2M+ Hospital Records
 
 ![Hospital Dashboard V2](SPARCS-Hospital1.png)
 
@@ -80,6 +80,7 @@ You can explore the project directly in **Google Colab**: <br>
 
 * The project is focused on **SQL query applications** for healthcare data analysis.
 * Visualizations and dashboards are not the primary focus; instead, the emphasis is on extracting insights through queries.
+
 
 
 
