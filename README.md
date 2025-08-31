@@ -33,7 +33,7 @@ This repository serves as a centralized **showcase of my growth**, projects, and
     <tr>
       <td><a href="https://github.com/Raven-D3v/data-analytics-portfolio/blob/main/Project%2FSQL%2FSPARCS%20-%20Hospital%202M%20Dataset%2FREADME.md">SPARCS SQL Insights: Analyzing 2M+ Hospital Records</a></td>
       <td>Interactive Tableau dashboard analyzing the 2022 Philippine presidential election using precinct-level data (105K+ rows), featuring dynamic filters, vote margins, and candidate comparisons for data-driven storytelling.</td>
-      <td><img src="https://github.com/Raven-D3v/data-analytics-portfolio/blob/9842b0f926fe7fabf27e5782f610fbcb70c3cccb/Project/Tableau/Philippines%202022%20Presidential%20Election%20-%20Analysis/Src/PhElect2022-Tableau-dashboard.png" width="700"/></td>
+      <td><img src="https://github.com/Raven-D3v/data-analytics-portfolio/blob/main/Project%2FSQL%2FSPARCS%20-%20Hospital%202M%20Dataset%2FSPARCS-Hospital1.png" width="700"/></td>
     </tr>
   </tbody>
 </table>
