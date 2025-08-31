@@ -32,7 +32,7 @@ This repository serves as a centralized **showcase of my growth**, projects, and
   <tbody>
     <tr>
       <td><a href="https://github.com/Raven-D3v/data-analytics-portfolio/blob/main/Project%2FSQL%2FSPARCS%20-%20Hospital%202M%20Dataset%2FREADME.md">SPARCS SQL Insights: Analyzing 2M+ Hospital Records</a></td>
-      <td>Interactive Tableau dashboard analyzing the 2022 Philippine presidential election using precinct-level data (105K+ rows), featuring dynamic filters, vote margins, and candidate comparisons for data-driven storytelling.</td>
+      <td>SQL-powered analysis of the New York SPARCS dataset (2M+ hospital discharge records), using DuckDB in Google Colab to uncover trends in patient demographics, insurance distribution, hospital efficiency, and revenue insights.</td>
       <td><img src="https://github.com/Raven-D3v/data-analytics-portfolio/blob/main/Project%2FSQL%2FSPARCS%20-%20Hospital%202M%20Dataset%2FSPARCS-Hospital.png" width="700"/></td>
     </tr>
   </tbody>
