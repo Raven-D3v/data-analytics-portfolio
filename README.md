@@ -104,7 +104,7 @@ This repository serves as a centralized **showcase of my growth**, projects, and
 
 ## 📜 Certifications
 
-🎓 **[View my certifications](https://github.com/Raven-D3v/data-analytics-portfolio/blob/fbd7b1daec067fd04d8ace23a2578c42f8462e41/Certificates/README.md)**
+🎓 **[View my certifications (LinkedIn)](https://www.linkedin.com/in/raven-rubin/details/certifications/)**
 
 ---
 
