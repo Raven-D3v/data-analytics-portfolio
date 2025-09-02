@@ -80,7 +80,8 @@ You can explore the project directly in **Google Colab**: <br>
 ## 📌 Notes
 
 * The project is focused on **SQL query applications** for healthcare data analysis.
-* Visualizations and dashboards are not the primary focus; instead, the emphasis is on extracting insights through queries.
+* Visualizations and dashboards are not the primary focus; instead, the emphasis is on extracting insights through queries. <br><br>
+**© August 2025**
 
 
 
