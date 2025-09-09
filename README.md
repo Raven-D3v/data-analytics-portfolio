@@ -52,9 +52,9 @@ Hospitals face challenges in analyzing patient flow, service usage, and efficien
 
 **Projects:**
 
-* [SPARCS SQL Insights (2M+ Hospital Records)](link)
-* [Hospital Dashboard – v2 (Excel Improved)](link)
-* [Hospital Dashboard – v1 (Freelance Project)](link)
+* [SPARCS SQL Insights (2M+ Hospital Records)](https://github.com/Raven-D3v/data-analytics-portfolio/blob/8a4cc9c4c3add745bf8277cc985ee167109fdf2e/Project/SQL/SPARCS%20-%20Hospital%202M%20Dataset/README.md)
+* [Hospital Dashboard – v2 (Excel Improved)](https://github.com/Raven-D3v/data-analytics-portfolio/blob/941a03dc76cc376cd529a5d3e8d6a454fe693a92/Project/Hospital%20Data%20Dashboard%20(Excel)%20V2%20%E2%80%93%20BETTER%20DASHBOARD!!/README.md)
+* [Hospital Dashboard – v1 (Freelance Project)](https://github.com/Raven-D3v/data-analytics-portfolio/blob/8a4cc9c4c3add745bf8277cc985ee167109fdf2e/Project/Excel/Hospital%20Data%20Dashboard%20(Excel)%20%E2%80%93%20First%20Freelance%20Project/README.md)
 
 ---
 
@@ -81,7 +81,7 @@ Election data is complex, often scattered, and requires clear communication to t
 
 **Project:**
 
-* [Philippines 2022 Presidential Election – Tableau Dashboard](link)
+* [Philippines 2022 Presidential Election – Tableau Dashboard](https://github.com/Raven-D3v/data-analytics-portfolio/blob/96a815870add9aa11395cc00858aaee28f5fc22a/Project/Tableau/Philippines%202022%20Presidential%20Election%20-%20Analysis/README.md)
 
 ---
 
@@ -108,7 +108,7 @@ E-commerce companies need to identify top-performing products and customers to m
 
 **Project:**
 
-* [Sales Performance Dashboard (Excel)](link)
+* [Sales Performance Dashboard (Excel)](https://github.com/Raven-D3v/data-analytics-portfolio/tree/99e71cab9f8c775bfd2c38e8025b9c5185c79d1b/Project/Excel/Sales%20Performance%20Dashboard%20(Excel))
 
 ---
 
