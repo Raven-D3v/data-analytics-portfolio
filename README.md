@@ -51,7 +51,7 @@ This repository serves as a centralized **showcase of my growth**, projects, and
 
 
 
-<h3>Tableau</h3>
+<h3>Government</h3>
 <table>
   <thead>
     <tr>
@@ -69,7 +69,7 @@ This repository serves as a centralized **showcase of my growth**, projects, and
   </tbody>
 </table>
 
-<h3>Excel</h3>
+<h3>Business Intelligence</h3>
 <table>
   <thead>
     <tr>
