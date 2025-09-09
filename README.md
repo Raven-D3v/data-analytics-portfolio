@@ -136,9 +136,3 @@ E-commerce companies need to identify top-performing products and customers to m
 ---
 
 💡 *“Keep Moving Forward”*
-
----
-
-👉 This format makes it look like a **professional analyst’s case study portfolio**, with **problems → methods → results → recommendations**.
-
-Would you like me to **convert your existing tables (Healthcare, Government, BI)** into this new case-study style directly (so they’re fully rewritten into the new format), or do you prefer to keep the tables as a quick visual index and add the case-study breakdown *below* each?
