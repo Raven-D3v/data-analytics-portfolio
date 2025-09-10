@@ -114,9 +114,23 @@ Election data is complex, often scattered, and requires clear communication to t
 * Delivered a clear, interactive view of election results.
 * Enabled comparisons across candidates and regions for more transparent reporting.
 
-**Project:**
-
-* [Philippines 2022 Presidential Election – Tableau Dashboard](https://github.com/Raven-D3v/data-analytics-portfolio/blob/96a815870add9aa11395cc00858aaee28f5fc22a/Project/Tableau/Philippines%202022%20Presidential%20Election%20-%20Analysis/README.md)
+### **Government-Related Project:**
+<table>
+  <thead>
+    <tr>
+      <th>Project</th>
+      <th>Description</th>
+      <th>Preview</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href="https://github.com/Raven-D3v/data-analytics-portfolio/blob/96a815870add9aa11395cc00858aaee28f5fc22a/Project/Tableau/Philippines%202022%20Presidential%20Election%20-%20Analysis/README.md">Philippines 2022 Presidential Election – TABLEAU INTERACTIVE DASHBOARD</a></td>
+      <td>Interactive Tableau dashboard analyzing the 2022 Philippine presidential election using precinct-level data (105K+ rows), featuring dynamic filters, vote margins, and candidate comparisons for data-driven storytelling.</td>
+      <td><img src="https://github.com/Raven-D3v/data-analytics-portfolio/blob/9842b0f926fe7fabf27e5782f610fbcb70c3cccb/Project/Tableau/Philippines%202022%20Presidential%20Election%20-%20Analysis/Src/PhElect2022-Tableau-dashboard.png" width="700"/></td>
+    </tr>
+  </tbody>
+</table>
 
 </details>
 
