@@ -6,7 +6,9 @@
 
 ---
 
-## 📝 Executive Summary
+# 📝 Executive Summary
+
+<details>
 
 ### Business Problem
 
@@ -24,10 +26,14 @@ I specialize in building **data pipelines, dashboards, and SQL/Excel/Tableau sol
 
 Next step: Continue expanding into **forecasting, predictive analytics, and AI integration** to solve real-world business problems at scale.
 
+</details>
+
 ---
 
-## 🏥 Project Spotlight: Healthcare Analytics
+## 🏥 Healthcare Analytics
 
+<details> 
+  
 ### Business Problem
 
 Hospitals face challenges in analyzing patient flow, service usage, and efficiency due to **disparate data sources and manual reporting processes**.
@@ -56,9 +62,13 @@ Hospitals face challenges in analyzing patient flow, service usage, and efficien
 * [Hospital Dashboard – v2 (Excel Improved)](https://github.com/Raven-D3v/data-analytics-portfolio/blob/941a03dc76cc376cd529a5d3e8d6a454fe693a92/Project/Hospital%20Data%20Dashboard%20(Excel)%20V2%20%E2%80%93%20BETTER%20DASHBOARD!!/README.md)
 * [Hospital Dashboard – v1 (Freelance Project)](https://github.com/Raven-D3v/data-analytics-portfolio/blob/8a4cc9c4c3add745bf8277cc985ee167109fdf2e/Project/Excel/Hospital%20Data%20Dashboard%20(Excel)%20%E2%80%93%20First%20Freelance%20Project/README.md)
 
+</details>
+
 ---
 
 ## 🏛 Government Analytics
+
+<details>
 
 ### Business Problem
 
@@ -83,9 +93,13 @@ Election data is complex, often scattered, and requires clear communication to t
 
 * [Philippines 2022 Presidential Election – Tableau Dashboard](https://github.com/Raven-D3v/data-analytics-portfolio/blob/96a815870add9aa11395cc00858aaee28f5fc22a/Project/Tableau/Philippines%202022%20Presidential%20Election%20-%20Analysis/README.md)
 
+</details>
+
 ---
 
 ## 📈 Business Intelligence
+
+<details>
 
 ### Business Problem
 
@@ -109,6 +123,8 @@ E-commerce companies need to identify top-performing products and customers to m
 **Project:**
 
 * [Sales Performance Dashboard (Excel)](https://github.com/Raven-D3v/data-analytics-portfolio/tree/99e71cab9f8c775bfd2c38e8025b9c5185c79d1b/Project/Excel/Sales%20Performance%20Dashboard%20(Excel))
+
+</details>
 
 ---
 
