@@ -136,6 +136,8 @@ E-commerce companies need to identify top-performing products and customers to m
 
 ## 🧠 Skills & Tools
 
+<details>
+  
 - **Data Analytics**: Excel, SQL, Tableau, Power BI  
 - **Programming & Scripting**: Python, C++  
 - **AI & Machine Learning**: numpy, pandas, Tensorflow, Jupyter  
@@ -171,6 +173,8 @@ E-commerce companies need to identify top-performing products and customers to m
   <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/>
   <img src="https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white"/>
 </p>
+
+</details>
 
 ---
 
