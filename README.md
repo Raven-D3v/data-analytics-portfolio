@@ -128,18 +128,49 @@ E-commerce companies need to identify top-performing products and customers to m
 
 ---
 
-## 🧠 Skills
-
-* **Data Analytics:** Excel, SQL, Tableau, Power BI
-* **Programming:** Python (pandas, matplotlib, scikit-learn), C++
-* **Visualization & Storytelling:** Dashboards, Interactive Reports
-* **Database Tools:** MySQL, SQLite, MariaDB, MongoDB
-
----
-
 ## 📜 Certifications
 
 🎓 [View Certifications (LinkedIn)](https://www.linkedin.com/in/raven-rubin/details/certifications/)
+
+---
+
+## 🧠 Skills & Tools
+
+- **Data Analytics**: Excel, SQL, Tableau, Power BI  
+- **Programming & Scripting**: Python, C++  
+- **AI & Machine Learning**: numpy, pandas, Tensorflow, Jupyter  
+- **Web Development**: HTML, CSS, JavaScript, Django  
+- **Automation & Bots**: Botpress, ManyChat  
+- **Others**: Git, GitHub, Canva
+
+### 💻 Tech Stack   
+<p align="center">
+  <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
+  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/>
+  <img src="https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white"/>
+  <img src="https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white"/>
+  <img src="https://img.shields.io/badge/ejs-%23B4CA65.svg?style=for-the-badge&logo=ejs&logoColor=black"/>
+  <img src="https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white"/>
+  <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white"/>
+  <img src="https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white"/>
+  <img src="https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white"/>
+  <img src="https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white"/>
+  <img src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Gimp-657D8B?style=for-the-badge&logo=gimp&logoColor=FFFFFF"/>
+  <img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black"/>
+  <img src="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white"/>
+  <img src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white"/>
+  <img src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white"/>
+  <img src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
+  <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white"/>
+</p>
 
 ---
 
@@ -147,7 +178,7 @@ E-commerce companies need to identify top-performing products and customers to m
 
 🌍 [Linktree](https://linktr.ee/projectRaven)
 💼 [LinkedIn](https://www.linkedin.com/in/raven-klein-r-8705222b6)
-📧 [raven.dev2024@gmail.com](mailto:raven.dev2024@gmail.com)
+📧 [ravenkleinrubin@gmail.com](mailto:ravenkleinrubin@gmail.com)
 
 ---
 
