@@ -159,9 +159,23 @@ E-commerce companies need to identify top-performing products and customers to m
 * Highlighted top products and customers.
 * Recommended reallocation of marketing budget toward high-value customers.
 
-**Project:**
-
-* [Sales Performance Dashboard (Excel)](https://github.com/Raven-D3v/data-analytics-portfolio/tree/99e71cab9f8c775bfd2c38e8025b9c5185c79d1b/Project/Excel/Sales%20Performance%20Dashboard%20(Excel))
+**BI Project:**
+<table>
+  <thead>
+    <tr>
+      <th>Project</th>
+      <th>Description</th>
+      <th>Preview</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href="https://github.com/Raven-D3v/data-analytics-portfolio/tree/99e71cab9f8c775bfd2c38e8025b9c5185c79d1b/Project/Excel/Sales%20Performance%20Dashboard%20(Excel)">Sales Performance Dashboard (Excel)</a></td>
+      <td>My first Excel dashboard project using a custom e-commerce dataset to analyze monthly sales trends, top-performing products, and high-value customers through pivot charts and slicers.</td>
+      <td><img src="https://github.com/Raven-D3v/data-analytics-portfolio/blob/495052c1d8669df0d96bcbd080c2274aa2129112/Project/Sales%20Performance%20Dashboard%20(Excel)/sales_dashboard.png" width="500"/></td>
+    </tr>
+  </tbody>
+</table>
 
 </details>
 
