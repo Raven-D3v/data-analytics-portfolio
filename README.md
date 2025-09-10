@@ -56,11 +56,36 @@ Hospitals face challenges in analyzing patient flow, service usage, and efficien
 * Identified demographic and insurance insights to guide hospital resource allocation.
 * Recommended dashboard adoption for continuous monitoring of patient throughput.
 
-**Projects:**
-
-* [SPARCS SQL Insights (2M+ Hospital Records)](https://github.com/Raven-D3v/data-analytics-portfolio/blob/8a4cc9c4c3add745bf8277cc985ee167109fdf2e/Project/SQL/SPARCS%20-%20Hospital%202M%20Dataset/README.md)
-* [Hospital Dashboard – v2 (Excel Improved)](https://github.com/Raven-D3v/data-analytics-portfolio/blob/941a03dc76cc376cd529a5d3e8d6a454fe693a92/Project/Hospital%20Data%20Dashboard%20(Excel)%20V2%20%E2%80%93%20BETTER%20DASHBOARD!!/README.md)
-* [Hospital Dashboard – v1 (Freelance Project)](https://github.com/Raven-D3v/data-analytics-portfolio/blob/8a4cc9c4c3add745bf8277cc985ee167109fdf2e/Project/Excel/Hospital%20Data%20Dashboard%20(Excel)%20%E2%80%93%20First%20Freelance%20Project/README.md)
+### **Healthcare Projects:**
+<table>
+  <thead>
+    <tr>
+      <th>Project</th>
+      <th>Description</th>
+      <th>Preview</th>
+    </tr>
+  </thead>
+  <tbody>
+    <!-- SPARCS SQL Insights: Analyzing 2M+ Hospital Records -->
+    <tr>
+      <td><a href="https://github.com/Raven-D3v/data-analytics-portfolio/blob/main/Project%2FSQL%2FSPARCS%20-%20Hospital%202M%20Dataset%2FREADME.md">SPARCS SQL Insights: Analyzing 2M+ Hospital Records</a></td>
+      <td>SQL-powered analysis of the New York SPARCS dataset (2M+ hospital discharge records), using DuckDB in Google Colab to uncover trends in patient demographics, insurance distribution, hospital efficiency, and revenue insights.</td>
+      <td><img src="https://github.com/Raven-D3v/data-analytics-portfolio/blob/main/Project%2FSQL%2FSPARCS%20-%20Hospital%202M%20Dataset%2FSPARCS-Hospital.png" width="700"/></td>
+    </tr>
+    <!-- Hospital Data Dashboard – v2 (Improved) -->
+     <tr>
+      <td><a href="https://github.com/Raven-D3v/data-analytics-portfolio/blob/941a03dc76cc376cd529a5d3e8d6a454fe693a92/Project/Hospital%20Data%20Dashboard%20(Excel)%20V2%20%E2%80%93%20BETTER%20DASHBOARD!!/README.md">Hospital Data Dashboard – v2 (Improved)</a></td>
+      <td>Upgraded Excel dashboard using real hospital outpatient data (2,570+ rows), redesigned with improved layout, slicers, and storytelling based on expert feedback and real-world application.</td>
+      <td><img src="https://github.com/Raven-D3v/data-analytics-portfolio/blob/495052c1d8669df0d96bcbd080c2274aa2129112/Project/Hospital%20Data%20Dashboard%20(Excel)%20V2%20%E2%80%93%20BETTER%20DASHBOARD!!/dashboard.png" width="500"/></td>
+    </tr>
+    <!-- Hospital Data Dashboard – Freelance v1 -->
+    <tr>
+      <td><a href="Project/Hospital%20Data%20Dashboard%20(Excel)%20%E2%80%93%20First%20Freelance%20Project/README.md">Hospital Data Dashboard – Freelance v1</a></td>
+      <td>First client-based Excel dashboard project analyzing 2,570 rows of hospital data, built with custom branding and focused on patient flow, service types, and waiting time insights.</td>
+      <td><img src="https://github.com/Raven-D3v/data-analytics-portfolio/blob/495052c1d8669df0d96bcbd080c2274aa2129112/Project/Hospital%20Data%20Dashboard%20(Excel)%20%E2%80%93%20First%20Freelance%20Project/hospital_dashboard.png" width="500"/></td>
+    </tr>
+  </tbody>
+</table>
 
 </details>
 
