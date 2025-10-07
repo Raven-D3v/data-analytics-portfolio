@@ -69,9 +69,9 @@ Manual finance tracking through spreadsheets is **time-consuming and error-prone
   </thead>
   <tbody>
     <tr>
-      <td><a href="https://your-notion-link-here">TG Finance Tracker – MVP v1</a></td>
+      <td><a href="https://github.com/Raven-D3v/data-analytics-portfolio/blob/e06e1379b901409c35a9d765a1862a36846e948d/Project/Automation/TG-Finance-Tracker/README.md">TG Finance Tracker – MVP v1</a></td>
       <td>Early version Telegram-to-Google Sheets automation for tracking income, expenses, and cash flow. Built using n8n and Supabase, enabling multiple users to link their Telegram accounts simultaneously. Currently open for limited public validation.</td>
-      <td><img src="https://github.com/Raven-D3v/ProjectData/blob/cfd1a96f7061a82591aa32b261e3a49bfe2e120d/6109140179248857812.jpg" width="500"/></td>
+      <td><img src="https://github.com/Raven-D3v/data-analytics-portfolio/blob/ba05557a46bdfb75ad7409b36a7a02724ef31863/Project/Automation/TG-Finance-Tracker/Income.png" height"100"/></td>
     </tr>
   </tbody>
 </table>
