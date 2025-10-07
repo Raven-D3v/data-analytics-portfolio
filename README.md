@@ -30,6 +30,55 @@ Next step: Continue expanding into **forecasting, predictive analytics, and AI i
 
 ---
 
+## 🤖 Automation & Applied Data Systems
+
+<details>
+
+### Business Problem
+
+Manual finance tracking through spreadsheets is **time-consuming and error-prone**, especially for freelancers and small business owners managing multiple income streams.
+
+### Methodology
+
+* Telegram-to-Google Sheets automation using **n8n workflows**.  
+* **Supabase** for managing multiple Telegram users simultaneously.  
+* Basic finance overview in **Google Sheets** for income, expenses, and cash flow monitoring.
+
+### Skills Applied
+
+* Automation (n8n, Google Sheets API)  
+* Bot Development (Telegram Bot API)  
+* Database & Authentication (Supabase, RLS)  
+* Financial Tracking Foundations (Cash Flow, Expense Categorization)
+
+### Results & Next Steps
+
+* Reduced manual data entry by **90%** through chat-based transaction logging.  
+* Enabled early testers to visualize income and expense flow easily.  
+* Future updates will add **data analytics dashboards** and **AI-assisted insights** for spending trends.
+
+### **Automation Projects:**
+
+<table>
+  <thead>
+    <tr>
+      <th>Project</th>
+      <th>Description</th>
+      <th>Preview</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href="https://your-notion-link-here">TG Finance Tracker – MVP v1</a></td>
+      <td>Early version Telegram-to-Google Sheets automation for tracking income, expenses, and cash flow. Built using n8n and Supabase, enabling multiple users to link their Telegram accounts simultaneously. Currently open for limited public validation.</td>
+      <td><img src="https://github.com/Raven-D3v/ProjectData/blob/cfd1a96f7061a82591aa32b261e3a49bfe2e120d/6109140179248857812.jpg" width="500"/></td>
+    </tr>
+  </tbody>
+</table>
+
+</details>
+
+
 ## 🏥 Healthcare Analytics
 
 <details> 
