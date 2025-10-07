@@ -1,8 +1,9 @@
 # 🧾 TG Finance Tracker Bot
 
-<p align="center">
-  <img src="https://github.com/Raven-D3v/data-analytics-portfolio/blob/ba05557a46bdfb75ad7409b36a7a02724ef31863/Project/Automation/TG-Finance-Tracker/Income.png" width="300" />
-  <img src="https://github.com/Raven-D3v/data-analytics-portfolio/blob/ba05557a46bdfb75ad7409b36a7a02724ef31863/Project/Automation/TG-Finance-Tracker/Expense.png" width="300" />
+<p align="left">
+  <img src="https://github.com/Raven-D3v/data-analytics-portfolio/blob/ba05557a46bdfb75ad7409b36a7a02724ef31863/Project/Automation/TG-Finance-Tracker/Income.png" height="190" />
+  <img src="https://github.com/Raven-D3v/data-analytics-portfolio/blob/ba05557a46bdfb75ad7409b36a7a02724ef31863/Project/Automation/TG-Finance-Tracker/Expense.png" height="190" />
+  <img src="https://github.com/Raven-D3v/data-analytics-portfolio/blob/57894f6a69e88a41b112520d12155eb79f8eb578/Project/Automation/TG-Finance-Tracker/Gsheets.jpeg" height="190" />
 </p>
 
 **Automated Personal Finance Data Tracker using Google Sheets + Telegram Bot**
