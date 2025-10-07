@@ -78,6 +78,7 @@ Manual finance tracking through spreadsheets is **time-consuming and error-prone
 
 </details>
 
+---
 
 ## 🏥 Healthcare Analytics
 
