@@ -9,22 +9,23 @@
 # 📝 Executive Summary
 
 <details>
+<summary>Click to Expand</summary>
 
 ### Business Problem
 
-Organizations often struggle to make sense of large, messy datasets—whether in healthcare, government, or business. This creates missed opportunities for efficiency, revenue growth, and better decision-making.
+Organizations and individuals often struggle to make sense of large, messy datasets or need faster decision-making tools. Students also face difficulty reporting emergencies discreetly and without internet, causing delays in response and underreporting.
 
 ### Solution
 
-I specialize in building **data pipelines, dashboards, and SQL/Excel/Tableau solutions** that transform raw datasets into clear business insights. My approach focuses on **practical analytics**, aligning metrics with KPIs and designing dashboards that drive decision-making.
+I specialize in building **data pipelines, dashboards, and AI-powered systems** to transform raw data into actionable insights. My approach combines **automation, analytics, and practical AI** to solve real-world problems efficiently.
 
 ### Impact & Next Steps
 
-* Analyzed **2M+ rows of hospital records** to uncover trends in patient demographics, insurance, and costs.
-* Built **interactive dashboards** (Excel/Tableau) for healthcare and government data with 100K+ rows, enabling better reporting and storytelling.
-* Improved client reporting efficiency by **up to 95%** through automation and dashboard design.
+* Analyzed **2M+ hospital records** to uncover trends in demographics, insurance, and costs.
+* Built **interactive dashboards** (Excel/Tableau) for healthcare, government, and finance datasets with 100K+ rows, improving reporting efficiency by **up to 95%**.
+* Developed **OneTapSOS**, an AI-powered SMS emergency alert system, enabling faster and discreet reporting, improving responder awareness by **70%**, and presented at the **International Research Conference 2025**.
 
-Next step: Continue expanding into **forecasting, predictive analytics, and AI integration** to solve real-world business problems at scale.
+Next steps: Expand into **forecasting, predictive analytics, and AI-integrated solutions** for business, healthcare, and public safety.
 
 </details>
 
@@ -32,6 +33,7 @@ Next step: Continue expanding into **forecasting, predictive analytics, and AI i
 
 ## 🤖 Automation & Applied Data Systems 
 <details>
+<summary>Click to Expand</summary>
   
   <!--Start of OneTapSOS-->
   <details>
@@ -143,7 +145,8 @@ Students lack a fast, discreet, and internet-independent way to report emergenci
 
 ## 🏥 Healthcare Analytics
 
-<details> 
+<details>
+<summary>Click to Expand</summary>
   
 ### Business Problem
 
@@ -205,6 +208,7 @@ Hospitals face challenges in analyzing patient flow, service usage, and efficien
 ## 🏛 Government Analytics
 
 <details>
+<summary>Click to Expand</summary>
 
 ### Business Problem
 
@@ -250,6 +254,7 @@ Election data is complex, often scattered, and requires clear communication to t
 ## 📈 Business Intelligence
 
 <details>
+<summary>Click to Expand</summary>
 
 ### Business Problem
 
@@ -301,6 +306,7 @@ E-commerce companies need to identify top-performing products and customers to m
 ## 🧠 Skills & Tools
 
 <details>
+<summary>Click to Expand</summary>
   
 - **Data Analytics**: Excel, SQL, Tableau, Power BI  
 - **Programming & Scripting**: Python, C++  
