@@ -61,7 +61,7 @@ Students lack a fast, discreet, and internet-independent way to report emergenci
 * Improved responder situational awareness by **70%** through dashboard visualizations.
 * Presented at the **International Research Conference on Building Resilient Ecosystems 2025**, highlighting AI-driven emergency reporting.
 
-### **Project Directory:**
+### **Project Details:**
   
   <table>
     <thead>
@@ -73,14 +73,15 @@ Students lack a fast, discreet, and internet-independent way to report emergenci
     </thead>
     <tbody>
       <tr>
-        <td><a href="https://github.com/Raven-D3v/data-analytics-portfolio/blob/e06e1379b901409c35a9d765a1862a36846e948d/Project/Automation/TG-Finance-Tracker/README.md">TG Finance Tracker – MVP v1</a></td>
-        <td>Early version Telegram-to-Google Sheets automation for tracking income, expenses, and cash flow. Built using n8n and Supabase, enabling multiple users to link their Telegram accounts simultaneously. Currently open for limited public validation.</td>
+        <td><a href="https://www.notion.so/OneTapSOS-2ac6fb0378b68067af69fa8b0375baf3?source=copy_link">OneTapSOS</a></td>
+        <td>OneTapSOS: An AI-powered SMS emergency alert system that enables students to quickly and discreetly report robbery, assault, and harassment. Features one-tap alerts, Python NLP classification, and a Django dashboard with real-time analytics and geospatial mapping for responders.</td>
         <td><img src="https://github.com/Raven-D3v/data-analytics-portfolio/blob/ba05557a46bdfb75ad7409b36a7a02724ef31863/Project/Automation/TG-Finance-Tracker/Income.png" height"100"/></td>
       </tr>
     </tbody>
   </table>
 </details>
 <!--End of OneTapSOS-->
+
 <!--Start of TG Finance Tracker-->
   <details>
   <summary>TG Finance Tracker</summary>
@@ -108,7 +109,7 @@ Students lack a fast, discreet, and internet-independent way to report emergenci
   * Enabled early testers to visualize income and expense flow easily.  
   * Future updates will add **data analytics dashboards** and **AI-assisted insights** for spending trends.
   
-  ### **Project Directory:**
+  ### **Project Details:**
   
   <table>
     <thead>
