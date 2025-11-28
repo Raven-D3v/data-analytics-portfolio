@@ -33,9 +33,12 @@ Next step: Continue expanding into **forecasting, predictive analytics, and AI i
 ## 🤖 Automation & Applied Data Systems 
 <details>
   
-  <!--Sart of OneTapSOS-->
+  <!--Start of OneTapSOS-->
   <details>
-  <summary>OneTapSOS – AI-Powered Emergency Alert System</summary>
+  <summary>OneTapSOS</summary>
+
+### System Title: 
+OneTapSOS: An AI-Powered SMS Emergency Alert System for Reporting Robbery and Assault
 
 ### Business Problem
 
@@ -46,7 +49,7 @@ Students lack a fast, discreet, and internet-independent way to report emergenci
 * Developed an **Android mobile app** for one-tap emergency SMS alerts.
 * Built a **Python NLP + keyword-boosted AI** to classify incoming messages with **75% accuracy**.
 * Created a **Django-based responder dashboard** with **Chart.js** analytics and **Leaflet.js** maps for real-time incident monitoring.
-* Led a **team of 5 members**, coordinating app, AI, and dashboard development.
+* Led a **team of 5 members**, coordinating app, AI, dashboard development, and documentation.
 
 ### Skills Applied
 
@@ -75,7 +78,11 @@ Students lack a fast, discreet, and internet-independent way to report emergenci
       <tr>
         <td><a href="https://www.notion.so/OneTapSOS-2ac6fb0378b68067af69fa8b0375baf3?source=copy_link">OneTapSOS</a></td>
         <td>OneTapSOS: An AI-powered SMS emergency alert system that enables students to quickly and discreetly report robbery, assault, and harassment. Features one-tap alerts, Python NLP classification, and a Django dashboard with real-time analytics and geospatial mapping for responders.</td>
-        <td><img src="https://github.com/Raven-D3v/data-analytics-portfolio/blob/ba05557a46bdfb75ad7409b36a7a02724ef31863/Project/Automation/TG-Finance-Tracker/Income.png" height"100"/></td>
+        <td>
+        <a href="https://www.notion.so/OneTapSOS-2ac6fb0378b68067af69fa8b0375baf3?source=copy_link">
+          <img src="https://github.com/Raven-D3v/data-analytics-portfolio/blob/bde101215c4504eafc386e1a1c5c9c091278e037/Project/Automation/OneTapSOS/OneTapSOS.jpg" height="300"/>
+        </a>
+      </td>
       </tr>
     </tbody>
   </table>
