@@ -13,7 +13,7 @@ Managing resort payments manually can be time-consuming and error-prone, especia
 
 ## Video Demo
 
-<a href="https://drive.google.com/file/d/19s8otvpfp6PAVnIXbx8yfdHtx0GrgGOW/view?usp=sharing" target="_blank">
+<a href="https://drive.google.com/file/d/19s8otvpfp6PAVnIXbx8yfdHtx0GrgGOW/view?usp=sharing" target="_blank" rel="noopener noreferrer">
   <img 
     src="https://github.com/Raven-D3v/data-analytics-portfolio/blob/d95fe57d2e6184c816030b63dc7273a83d8c0b66/Project/Excel/Resort%20Payment%20Collection%20-%20Excel%20Dashboard/Resort%20Payment%20Collection%20-%20Excel%20Dashboard%20-%20thmbnl%20.png"
     alt="Resort Payment Collection Dashboard Video Demo"
