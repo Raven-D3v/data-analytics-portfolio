@@ -251,30 +251,30 @@ Election data is complex, often scattered, and requires clear communication to t
 ---
 
 ## 📈 Business Intelligence
-
 <details>
 <summary>Click to Expand</summary>
 
-### Business Problem
+<!--Start of Sales Performance Dashboard-->
+<details>
+<summary>Sales Performance Dashboard (Excel)</summary>
 
-E-commerce companies need to identify top-performing products and customers to maximize profitability.
+### Business Problem
+E-commerce companies needed to identify top-performing products and customers to maximize profitability.
 
 ### Methodology
-
-* Built sales performance dashboard in Excel.
-* Applied **pivot charts, slicers, and trend analysis**.
+* Built an **Excel dashboard** using a custom e-commerce dataset.
+* Applied **PivotTables, pivot charts, and slicers** for interactive insights.
+* Analyzed monthly trends, top products, and high-value customers.
 
 ### Skills Applied
-
 * Excel (Dashboard design, Data summarization)
 * Business Intelligence storytelling
 
 ### Results & Recommendations
-
 * Highlighted top products and customers.
 * Recommended reallocation of marketing budget toward high-value customers.
 
-**BI Project:**
+### **Project Details:**
 <table>
   <thead>
     <tr>
@@ -286,13 +286,58 @@ E-commerce companies need to identify top-performing products and customers to m
   <tbody>
     <tr>
       <td><a href="https://github.com/Raven-D3v/data-analytics-portfolio/tree/99e71cab9f8c775bfd2c38e8025b9c5185c79d1b/Project/Excel/Sales%20Performance%20Dashboard%20(Excel)">Sales Performance Dashboard (Excel)</a></td>
-      <td>My first Excel dashboard project using a custom e-commerce dataset to analyze monthly sales trends, top-performing products, and high-value customers through pivot charts and slicers.</td>
+      <td>Custom e-commerce dataset used to analyze monthly sales trends, top-performing products, and high-value customers through pivot charts and slicers.</td>
       <td><img src="https://github.com/Raven-D3v/data-analytics-portfolio/blob/495052c1d8669df0d96bcbd080c2274aa2129112/Project/Sales%20Performance%20Dashboard%20(Excel)/sales_dashboard.png" width="500"/></td>
     </tr>
   </tbody>
 </table>
+</details>
+<!--End of Sales Performance Dashboard-->
+
+<!--Start of Resort Payment Collection Dashboard-->
+<details>
+<summary>Resort Payment Collection Dashboard (Excel)</summary>
+
+### Business Problem
+Resorts needed a way to **track payment collections across multiple properties**, reconcile deposits vs full payments, and monitor revenue contributions by country efficiently.
+
+### Methodology
+* Built a **client-based Excel dashboard** consolidating multiple resort data sheets.
+* Applied **PivotTables, dynamic formulas, charts, and slicers** for interactivity.
+* Created **summary tables, top 10 countries bar chart, and payment pie charts**.
+
+### Skills Applied
+* Excel (Dashboard design, PivotTables, Data consolidation)
+* Data automation & dynamic reporting
+* Client-focused dashboard design
+
+### Results & Recommendations
+* Centralized multiple resort data into **one interactive dashboard**.
+* Improved visibility of deposits, full payments, and revenue distribution.
+* Dashboard auto-updates with new data, reducing manual tracking.
+
+### **Project Details:**
+<table>
+  <thead>
+    <tr>
+      <th>Project</th>
+      <th>Description</th>
+      <th>Preview</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href="https://github.com/Raven-D3v/data-analytics-portfolio/tree/main/Project/Excel/Resort%20Payment%20Collection%20-%20Excel%20Dashboard">Resort Payment Collection Dashboard (Excel)</a></td>
+      <td>Client-based project consolidating multiple resort data into a single interactive Excel dashboard. All confidential data removed for public use. Tracks deposits, full payments, and revenue distribution by country.</td>
+      <td><img src="https://github.com/Raven-D3v/data-analytics-portfolio/blob/9ba0d188161f9bfbe6c647792d23beac35afb196/Project/Excel/Resort%20Payment%20Collection%20-%20Excel%20Dashboard/Resort%20Payment%20Collection%20-%20Excel%20Dashboard%20-%20img%20ss%20.png" width="500"/></td>
+    </tr>
+  </tbody>
+</table>
+</details>
+<!--End of Resort Payment Collection Dashboard-->
 
 </details>
+
 
 ---
 
