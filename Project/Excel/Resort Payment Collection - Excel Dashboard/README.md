@@ -1,4 +1,4 @@
-# Resort Payment Collection Excel Dashboard
+# Resort Payment Collection – Interactive Excel Dashboard (Client Project)
 
 ![Dashboard Screenshot](https://github.com/Raven-D3v/data-analytics-portfolio/blob/9ba0d188161f9bfbe6c647792d23beac35afb196/Project/Excel/Resort%20Payment%20Collection%20-%20Excel%20Dashboard/Resort%20Payment%20Collection%20-%20Excel%20Dashboard%20-%20img%20ss%20.png)  
 *Screenshot of the Resort Payment Collection Dashboard with sample data.*
