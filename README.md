@@ -181,7 +181,7 @@ Resorts needed a way to **track payment collections across multiple properties**
     <tr>
       <td><a href="https://github.com/Raven-D3v/data-analytics-portfolio/tree/main/Project/Excel/Resort%20Payment%20Collection%20-%20Excel%20Dashboard">Resort Payment Collection Dashboard (Excel)</a></td>
       <td>Client-based project consolidating multiple resort data into a single interactive Excel dashboard. All confidential data removed for public use. Tracks deposits, full payments, and revenue distribution by country.</td>
-      <td><img src="https://github.com/Raven-D3v/data-analytics-portfolio/blob/9ba0d188161f9bfbe6c647792d23beac35afb196/Project/Excel/Resort%20Payment%20Collection%20-%20Excel%20Dashboard/Resort%20Payment%20Collection%20-%20Excel%20Dashboard%20-%20img%20ss%20.png" width="500"/></td>
+      <td><a href="https://github.com/Raven-D3v/data-analytics-portfolio/blob/main/Project/Excel/Resort%20Payment%20Collection%20-%20Excel%20Dashboard/README.md"> <img src="https://github.com/Raven-D3v/data-analytics-portfolio/blob/9ba0d188161f9bfbe6c647792d23beac35afb196/Project/Excel/Resort%20Payment%20Collection%20-%20Excel%20Dashboard/Resort%20Payment%20Collection%20-%20Excel%20Dashboard%20-%20img%20ss%20.png" width="500"/></a></td>
     </tr>
   </tbody>
 </table>
