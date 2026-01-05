@@ -42,12 +42,13 @@ Managing resort payments manually can be time-consuming and error-prone, especia
 
 The Excel file includes:
 
-- A **single file** with all resort data consolidated.
-- A **Dashboard sheet** containing charts and summary tables.
-- **Dynamic PivotTables** and formulas for automatic updates.
-- **Sample data only** — client confidential information removed for public use.
+- **3 resort data source sheets** consolidated into a single workbook.
+- **1 interactive Dashboard sheet** with charts and summary tables.
+- **3 hidden backend sheets** used for PivotTables, calculations, and data processing.
+- **Dynamic formulas and PivotTables** that automatically update with new data.
+- **Sample data only** — all client confidential information has been removed for public use.
 
-**[Download Dashboard Excel File](./Resort_Payment_Collection_Dashboard.xlsx)**
+**[Download Dashboard Excel File]([./Resort_Payment_Collection_Dashboard.xlsx](https://github.com/Raven-D3v/data-analytics-portfolio/blob/ea00d16635ac999463915d6e9353bc484930df62/Project/Excel/Resort%20Payment%20Collection%20-%20Excel%20Dashboard/resort_excel_dashboard-2.xlsx))**
 
 ---
 
