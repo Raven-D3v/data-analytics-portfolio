@@ -54,7 +54,7 @@ The Excel file includes:
 - **Dynamic formulas and PivotTables** that automatically update with new data.
 - **Sample data only** — all client confidential information has been removed for public use.
 
-**[Download Dashboard Excel File]([./Resort_Payment_Collection_Dashboard.xlsx](https://github.com/Raven-D3v/data-analytics-portfolio/blob/ea00d16635ac999463915d6e9353bc484930df62/Project/Excel/Resort%20Payment%20Collection%20-%20Excel%20Dashboard/resort_excel_dashboard-2.xlsx))**
+**[Download Dashboard Excel File](https://github.com/Raven-D3v/data-analytics-portfolio/blob/425c324ea8ec82d502ff00870194fcd760a8ae6f/Project/Excel/Resort%20Payment%20Collection%20-%20Excel%20Dashboard/resort_excel_dashboard-2.xlsx)**
 
 ---
 
