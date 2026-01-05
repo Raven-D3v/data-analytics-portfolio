@@ -5,9 +5,15 @@
 
 ## Overview
 
-This project was originally developed for a client to streamline payment tracking across multiple resorts. To make it available for public use, **all confidential data have been removed**, and sample data has been included in the dashboard.
+This project was originally developed for a client to improve **payment collection visibility across multiple resorts**. For public portfolio use, **all confidential client data has been removed** and replaced with sanitized sample data.
 
-Managing resort payments manually can be time-consuming and error-prone, especially when handling multiple resorts, payment types, and daily updates. This Excel dashboard provides a **dynamic, consolidated solution** that saves time and improves visibility.
+Before this solution, payment tracking relied on **separate resort files and manual consolidation**, making it difficult to:
+- Maintain an accurate overview of payment status
+- Track deposits vs full payments
+- Identify top revenue-contributing countries
+- Update reports efficiently on a daily basis
+
+This Excel dashboard centralizes all resort data into **one automated, decision-ready view**, reducing manual work and improving reporting clarity.
 
 ---
 
@@ -49,6 +55,16 @@ The Excel file includes:
 - **Sample data only** — all client confidential information has been removed for public use.
 
 **[Download Dashboard Excel File]([./Resort_Payment_Collection_Dashboard.xlsx](https://github.com/Raven-D3v/data-analytics-portfolio/blob/ea00d16635ac999463915d6e9353bc484930df62/Project/Excel/Resort%20Payment%20Collection%20-%20Excel%20Dashboard/resort_excel_dashboard-2.xlsx))**
+
+---
+
+## What This Project Demonstrates
+
+- Translating **real client requirements** into a functional Excel dashboard  
+- Designing **client-facing reports** that balance clarity and usability  
+- Using **PivotTables, formulas, and structured tables** for scalable reporting  
+- Building dashboards that reduce manual effort and support decision-making  
+- Applying **data sanitization** for NDA-safe public portfolio sharing
 
 ---
 
