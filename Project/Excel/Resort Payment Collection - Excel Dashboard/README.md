@@ -74,3 +74,14 @@ Designed as a client project, this dashboard demonstrates how complex payment tr
 
 ---
 
+## Contact & Inquiries
+
+👤 **RavenKlein T. Rubin** a.k.a *"Project Raven"* <br>
+📊 Data Analytics | Excel & GSheets Dashboards | Automation  
+
+📩 Reach out or place an order:  
+- **Fiverr:** [Order a custom Excel Dashboard](https://www.fiverr.com/ravennn_kr/create-a-dynamic-and-interactive-excel-dashboard)
+- **Socials / Portfolio:** [Linktree](https://linktr.ee/projectRaven)  
+- **GitHub:** [Raven-D3v](https://github.com/Raven-D3v)    
+
+*Open to freelance projects, collaborations, and custom dashboard requests.*
