@@ -1,42 +1,79 @@
 # 📊 Attendance Tracker System – Google Sheets Automation
 
-A fully automated **Google Sheets–based Attendance Tracking System** designed to handle real-world HR policies, time rules, and payroll cut-offs — without manual computation.
+![Project Banner Screenshot](./screenshots/banner.png)
 
-This project focuses on **formula-driven automation**, ensuring accuracy, scalability, and minimal human error.
-
----
-
-## 🚀 Project Overview
-
-This Attendance Tracker was built to replace manual attendance computation with a **rule-based, automated system** using Google Sheets.
-
-The system automatically processes:
-- Time In / Time Out
-- Working hours
-- Late minutes
-- Undertime
-- Offset schedules
-- Work-from-home cases
-- Payroll cut-off summaries
-
-All computations are handled using **ARRAYFORMULA-based logic**, allowing the system to scale automatically as new rows or employees are added.
+> A fully automated **Google Sheets–based Attendance Tracking System** designed to eliminate manual attendance computation, reduce human error, and enforce real-world HR policies through formula-driven automation.
 
 ---
 
-## ⚙️ Core Automation Features
+## ❗ Problem Statement
 
-### ✅ **Automated Working Hours Calculation**
-- Computes total working hours per employee
-- Automatically deducts **1-hour lunch break**
-- Enforces company work schedule boundaries:
+Many small teams and growing companies rely on **manual attendance tracking** using basic spreadsheets.  
+This often results in:
+
+- Manual computation of working hours and lates
+- Inconsistent enforcement of attendance policies
+- High risk of human error
+- Time-consuming payroll preparation
+- Difficulty summarizing attendance across cut-off periods and months
+
+As attendance data grows, these issues compound — making simple spreadsheets **unsustainable and unreliable**.
+
+---
+
+## ✅ Solution Overview
+
+This project delivers a **rule-based, automated attendance system** built entirely in Google Sheets.
+
+Instead of manual calculations, the system uses **advanced formulas and structured logic** to automatically:
+
+- Compute working hours
+- Detect lates based on policy
+- Adjust schedules dynamically
+- Exclude leave and absence days
+- Summarize attendance per cut-off and per month
+
+The result is a **scalable, low-maintenance attendance system** that works in real operational conditions.
+
+---
+
+## 🖼 Project Screenshots
+
+> Replace these placeholders with actual images later.
+
+![Monthly Attendance Sheet](./screenshots/monthly-sheet.png) 
+![Automated Totals Section](./screenshots/automation.png)
+![Cut-Off Summary](./screenshots/cutoff-summary.png)
+
+---
+
+## 🔗 Project Access & Demo
+
+📄 **View-Only Google Sheet:**  
+👉 `https://docs.google.com/spreadsheets/d/XXXXXXXXXXXX`
+
+🎥 **Video Demo Walkthrough:**  
+👉 `https://youtu.be/XXXXXXXXXXXX`
+
+📸 **More Screenshots:**  
+👉 `./screenshots/`
+
+---
+
+## 🚀 Core Automation Features
+
+### ✅ Automated Working Hours Calculation
+- Automatically computes total working hours per employee
+- Deducts **1-hour lunch break** automatically
+- Enforces official working schedules:
   - Regular: **8:00 AM – 5:00 PM**
   - OFFSET: **9:00 AM – 6:00 PM**
-- Prevents negative or invalid time results
+- Prevents negative or invalid results
 
 ---
 
-### ✅ **Smart Late Detection System**
-Late minutes are computed automatically based on attendance type:
+### ✅ Smart Late Detection System
+Late minutes are calculated automatically based on attendance type:
 
 | Attendance Type | Late Threshold |
 |-----------------|----------------|
@@ -44,80 +81,56 @@ Late minutes are computed automatically based on attendance type:
 | OFFSET | After **9:15 AM** |
 | WFH | After **8:00 AM** |
 
-- Late minutes are calculated dynamically
-- No manual tagging or calculations needed
-- Supports daily, cut-off, and monthly aggregation
+- No manual tagging required
+- Late minutes computed dynamically
+- Supports daily, cut-off, and monthly summaries
 
 ---
 
-### ✅ **Policy-Based Attendance Recognition**
-The system automatically detects attendance conditions using text-based rules:
+### ✅ Policy-Based Attendance Recognition
+The system automatically recognizes attendance conditions using text-based rules:
+
 - `OFFSET`
 - `WFH`
 - `VL` / `SL` / `ABSENT`
 
 These entries automatically:
-- Adjust working hour rules
-- Exclude leave/absence days from calculations
+- Adjust working hour boundaries
 - Apply correct late thresholds
+- Exclude non-working days from calculations
 
 ---
 
-### ✅ **Undertime (UT) Automation**
-- Detects undertime for:
-  - **AM (8:00–12:00)**
-  - **PM (1:00–5:00)**
-- Automatically deducts UT from total working hours
-- Eliminates manual half-day checks
+## 🧠 Automation-First Design
 
----
+This project was designed with an **automation-first mindset**:
 
-### ✅ **Cut-Off Based Summaries**
-- Automatically computes **total late minutes per payroll cut-off**
-  - 1st Cut-Off: **15th**
-  - 2nd Cut-Off: **30th / 31st**
-- No need to rewrite formulas every payroll period
-- Designed to support monthly and yearly summaries
-
----
-
-### ✅ **Scalable Formula Architecture**
-- Built using:
-  - `ARRAYFORMULA`
-  - `LET`
-  - `FILTER`
-  - `REGEXEXTRACT`
-  - `TIMEVALUE`
-- Automatically applies calculations to new rows
-- No dragging of formulas
-- Minimal risk of human error
-
----
-
-## 🧠 Automation Philosophy
-
-This system was intentionally designed to:
-- Minimize manual encoding
-- Reduce formula duplication
-- Enforce business rules consistently
-- Scale easily as employee count grows
-- Serve as a foundation for dashboards and yearly analytics
+- Uses `ARRAYFORMULA` to auto-apply logic to new rows
+- Centralized formula architecture (no dragging)
+- Business rules enforced consistently
+- Minimal maintenance required as data grows
+- Ready foundation for dashboards and analytics
 
 ---
 
 ## 🛠 Tools & Technologies
 - Google Sheets
-- Advanced Spreadsheet Formulas
-- Data Automation & Business Logic Modeling
+- Advanced Spreadsheet Functions:
+  - `ARRAYFORMULA`
+  - `LET`
+  - `FILTER`
+  - `REGEXEXTRACT`
+  - `TIMEVALUE`
 - Conditional Formatting
+- Business Logic Modeling
 
 ---
 
-## 📈 Possible Extensions
-- Monthly & yearly attendance dashboards
-- Employee-level performance summaries
-- Payroll export integration
-- Department-level attendance analytics
+## 📈 Future Enhancements
+- Interactive dashboards
+- Yearly attendance summaries
+- Payroll export support
+- Department-level analytics
 
 ---
 
@@ -129,4 +142,4 @@ Custom Google Sheets Systems
 ---
 
 ## 📄 License
-This project is shared for educational and portfolio purposes.
+Shared for portfolio and educational purposes only.
