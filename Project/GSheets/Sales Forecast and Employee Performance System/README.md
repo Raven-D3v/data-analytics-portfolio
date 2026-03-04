@@ -56,7 +56,6 @@ This system goes beyond traditional Google Sheets dashboards.
 ### ❌ Traditional Google Sheets Dashboard Limitations
 - Heavy formula dependency  
 - Prone to accidental structural breaks  
-- Manual refresh processes  
 - Limited automation control  
 - Difficult to scale cleanly  
 
@@ -92,10 +91,15 @@ Designed to support structured reporting once operational cadence begins.
 
 ## 🧠 Technical Architecture
 
-- Data Input Layer → Separate Sales Sheets  
-- Processing Layer → Google Apps Script consolidation & validation  
-- Reporting Layer → Dashboard views (Forecast, Actual, Goal, Rankings)  
-- Visualization Layer → Charts and performance summaries  
+- **Data Source Layer** → Multiple independent Sales Sheets (raw transactional data)  
+
+- **Consolidation Layer** → Data imported into a centralized Master Sheet using `IMPORTRANGE()` for cross-sheet aggregation  
+
+- **Transformation Layer** → Imported data normalized into structured tabular format optimized for reporting (monthly, quarterly, yearly aggregation)  
+
+- **Application Layer (Google Apps Script)** → Consumes structured data, enables dynamic filtering (month/quarter), and manages configurable monthly & yearly goal logic  
+
+- **Reporting Layer** → Forecast vs Actual dashboards, employee performance tracking, and automated ranking system
 
 ---
 
