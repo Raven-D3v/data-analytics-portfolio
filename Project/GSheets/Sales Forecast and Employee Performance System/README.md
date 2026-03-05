@@ -1,122 +1,211 @@
 # 📊 Sales Forecast & Employee Performance Dashboard  
 ### A Centralized Sales Intelligence System Built with Google Apps Script
 
----
-
-## 📌 Overview
-
-A custom-built sales forecasting and performance reporting system designed to eliminate fragmented reporting across multiple sheets.
-
-Unlike traditional Google Sheets dashboards that rely purely on static charts and heavy formulas, this system leverages **Google Apps Script (GAS)** to create a more robust, scalable, and controlled reporting architecture.
-
-The goal: transform scattered sales data into a structured, decision-ready reporting system.
+![Sales Dashboard Overview](screenshots/dashboard-overview.png)
 
 ---
 
-## 🚨 Problem
+# 📌 Overview
+
+A custom-built **sales forecasting and employee performance reporting system** designed to replace fragmented spreadsheet reporting with a centralized intelligence dashboard.
+
+The system consolidates sales data from multiple sheets, structures it into a normalized dataset, and presents it through interactive dashboards powered by **Google Apps Script and Google Charts**.
+
+Instead of relying on heavy spreadsheet formulas, the platform uses **server-side Apps Script logic and a web-based UI layer** to deliver a scalable reporting workflow.
+
+---
+
+# 🚨 Problem
 
 Before implementation:
 
-- Sales data existed across multiple separate sheets  
-- Admin manually switched between files to prepare reports  
-- No centralized Forecast vs Actual vs Goal visibility  
-- Employee performance tracking required manual computation  
-- Reporting cycles were slow and inefficient  
+- Sales data was distributed across multiple sheets
+- Reporting required manual cross-referencing
+- Forecast vs Actual performance visibility was limited
+- Employee performance tracking required manual computation
+- Monthly and quarterly reporting was time-consuming
 
-This created reporting friction and delayed insights.
+This resulted in **slow reporting cycles and limited decision visibility**.
 
 ---
 
-## 🛠 Solution
+# 🛠 Solution
 
-### 1️⃣ Master Consolidation Engine
-- Consolidates multiple sales sheets into one structured master sheet  
-- Enforces consistent data structure  
-- Reduces manual cross-referencing  
-- Creates a single source of truth  
+The system introduces a structured reporting architecture composed of:
 
-### 2️⃣ Monthly & Yearly Forecast Dashboard
-- Forecast vs Actual vs Goal comparison  
-- Monthly and yearly performance tracking  
-- Automated calculation logic  
-- Real-time reporting visibility  
+### 1️⃣ Data Consolidation Engine
+
+![Master Sheet Consolidation](screenshots/master-sheet-consolidation.png)
+
+- Sales data stored across multiple input sheets
+- Imported into a **centralized Master Sheet using `IMPORTRANGE()`**
+- Ensures consistent data structure across all sales records
+- Creates a **single source of truth**
+
+---
+
+### 2️⃣ Forecast & Performance Dashboard
+
+![Forecast vs Actual Dashboard](screenshots/forecast-dashboard.png)
+
+- Monthly and yearly **Forecast vs Actual vs Goal comparison**
+- Real-time KPI summaries
+- Dynamic filtering by month and quarter
+- Interactive charts powered by **Google Charts**
+
+---
 
 ### 3️⃣ Employee Performance Dashboard
-- Quarterly goal tracking per employee  
-- Pie chart visualization of goal completion  
-- Ranking system (1st, 2nd, 3rd achievers)  
-- Objective performance comparison  
+
+![Employee Performance Dashboard](screenshots/employee-dashboard.png)
+
+- Quarterly performance tracking per employee
+- Visual **quota completion pie charts**
+- Leaderboard ranking system
+- Automated calculation of performance percentage vs quota
 
 ---
 
-## ⚙ Why Google Apps Script?
+# ⚙ System Architecture
 
-This system goes beyond traditional Google Sheets dashboards.
+![System Architecture Diagram](screenshots/system-architecture.png)
 
-### ❌ Traditional Google Sheets Dashboard Limitations
-- Heavy formula dependency  
-- Prone to accidental structural breaks  
-- Limited automation control  
-- Difficult to scale cleanly  
+The system follows a layered reporting architecture:
 
-### ✅ Google Apps Script Advantages
-- Programmatic data processing  
-- Controlled consolidation logic  
-- Reduced formula overload  
-- Automated computation workflows  
-- Cleaner separation between raw data and reporting layer  
-- Scalable foundation for future feature expansion  
+### Data Source Layer
+Multiple independent **Sales Sheets** containing raw transactional data.
 
-Using Google Apps Script transforms the spreadsheet into a lightweight reporting application within Google Workspace.
+### Consolidation Layer
+Data is aggregated into a centralized **Master Sheet** using:
 
----
 
-## 🎯 Benefits
+IMPORTRANGE()
 
-- One centralized master view  
-- Faster monthly and yearly reporting  
-- Reduced manual reporting effort  
-- Clear employee performance accountability  
-- Improved forecast visibility  
-- Structured data architecture for scalability  
 
----
+This allows the system to pull and standardize data across multiple sources.
 
-## 📌 Implementation Status
+### Transformation Layer
+Imported data is normalized into a structured tabular dataset optimized for reporting and analysis.
 
-System deployed and prepared for upcoming reporting cycle rollout.  
-Designed to support structured reporting once operational cadence begins.
+### Application Layer (Google Apps Script)
 
----
+Server-side Apps Script handles:
 
-## 🧠 Technical Architecture
+- Data processing and aggregation
+- Quarter and month calculations
+- Employee performance computations
+- Ranking logic
+- API-style functions used by the frontend dashboards
 
-- **Data Source Layer** → Multiple independent Sales Sheets (raw transactional data)  
+Key functions include:
 
-- **Consolidation Layer** → Data imported into a centralized Master Sheet using `IMPORTRANGE()` for cross-sheet aggregation  
+- `getEmployeeQuarterSummary()` → Calculates quarterly employee performance
+- `getEmployeeDetail()` → Returns employee monthly and quarterly metrics
+- `getMonths()` → Extracts available months from the dataset
+- `getEmplDashConfig()` → Retrieves system configuration (year settings)
 
-- **Transformation Layer** → Imported data normalized into structured tabular format optimized for reporting (monthly, quarterly, yearly aggregation)  
+### Visualization Layer
 
-- **Application Layer (Google Apps Script)** → Consumes structured data, enables dynamic filtering (month/quarter), and manages configurable monthly & yearly goal logic  
+Interactive dashboards built with:
 
-- **Reporting Layer** → Forecast vs Actual dashboards, employee performance tracking, and automated ranking system
+- **Google Apps Script HTML Service**
+- **Google Charts API**
 
----
+Features include:
 
-## 🛠 Tech Stack
-
-- Google Sheets  
-- Google Apps Script (Custom Automation & Logic)  
-- Forecast Logic Modeling  
-- Data Structuring & Dashboard Design  
+- KPI summary cards
+- Forecast vs Actual charts
+- Quarterly employee quota pie charts
+- Dynamic leaderboards
 
 ---
 
-## 🚀 Future Improvements
+# 📊 Dashboard Features
 
-- Automated scheduled reporting  
-- Email summary generation  
-- Role-based access control  
-- Expanded forecasting models  
+## Main Sales Dashboard
+
+![Main Sales Dashboard](screenshots/sales-dashboard.png)
+
+- Forecast vs Actual tracking
+- Monthly and yearly KPI summaries
+- Chart-based performance visualization
+- Dynamic filtering
+
+---
+
+## Employee Dashboard
+
+![Employee Leaderboard](screenshots/employee-leaderboard.png)
+
+- Quarterly quota completion charts
+- Performance leaderboard
+- Percent completion indicators
+- Employee ranking system
+
+---
+
+# 🎯 Key Benefits
+
+- Centralized reporting system
+- Faster monthly and quarterly reporting
+- Reduced manual spreadsheet work
+- Transparent employee performance tracking
+- Scalable architecture for future automation
+
+---
+
+# 🛠 Tech Stack
+
+- **Google Sheets** – Data storage and management  
+- **Google Apps Script** – Backend processing and automation  
+- **HTML / CSS / JavaScript** – Custom dashboard UI  
+- **Google Charts API** – Data visualization  
+
+---
+
+# 📂 Project Structure
+
+
+/Apps Script Project
+│
+├── Code.gs
+│ Core dashboard backend logic
+│
+├── EmplDashbGS.gs
+│ Employee dashboard server functions
+│
+├── Dashboard.html
+│ Main sales dashboard UI
+│
+├── EmployeeDashboard.html
+│ Employee performance dashboard UI
+│
+└── screenshots/
+├── dashboard-overview.png
+├── forecast-dashboard.png
+├── employee-dashboard.png
+├── master-sheet-consolidation.png
+├── system-architecture.png
+
+
+---
+
+# 🚀 Future Improvements
+
+Potential enhancements include:
+
+- Automated scheduled reporting
+- Email summary reports
+- Configurable employee quota system
+- Role-based dashboard access
+- Advanced forecasting models
+
+---
+
+# 📌 Implementation Status
+
+System deployed and ready for operational reporting.
+
+The architecture is designed to support scalable reporting workflows within the Google Workspace environment.
 
 ---
