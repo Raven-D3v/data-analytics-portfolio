@@ -60,11 +60,7 @@ A centralized reporting system that:
 
 ## ⚙ Architecture
 
-Sales Sheets  
-→ `IMPORTRANGE()` Consolidation  
-→ Structured Master Dataset  
-→ **Google Apps Script Processing**  
-→ Dashboard UI (Google Charts)
+Sales Sheets → `IMPORTRANGE()` Consolidation → Structured Master Dataset → **Google Apps Script Processing** → Dashboard UI (Google Charts)
 
 ---
 
@@ -80,13 +76,13 @@ Sales Sheets
 ## 📂 Project Structure
 
 
-Apps Script Project
-│
-├── Code.gs
-├── EmplDashbGS.gs
-├── Dashboard.html
-├── EmployeeDashboard.html
-└── screenshots/
+Apps Script Project <br>
+│ <br>
+├── Code.gs <br>
+├── EmplDashbGS.gs <br>
+├── Dashboard.html <br>
+├── EmployeeDashboard.html <br>
+└── screenshots/ <br>
 
 
 ---
