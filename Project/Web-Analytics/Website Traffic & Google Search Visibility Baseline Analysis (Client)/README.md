@@ -1,4 +1,5 @@
 # Website Traffic & Google Search Visibility Baseline Analysis
+![Report Preview](./images/dashboard-preview.png)
 
 **Project Type:** Website Analytics Case Study (Client Work – Confidential Data Modified)  
 **Platform:** Wix Analytics  
