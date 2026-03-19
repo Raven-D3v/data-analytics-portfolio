@@ -145,6 +145,60 @@ Students lack a fast, discreet, and internet-independent way to report emergenci
 ## 📈 Business Intelligence
 <details>
 <summary>Click to Expand</summary>
+
+<!--Start of Website Traffic & SEO Baseline Analysis-->
+<details>
+<summary>Website Traffic & SEO Baseline Analysis (Enterprise Case Study)</summary>
+
+### Business Problem
+Enterprise website struggling with **low organic search visibility** and poor internal page discovery, limiting traffic growth and user engagement.
+
+### Methodology
+* Analyzed **real enterprise website traffic** using Wix Analytics.
+* Evaluated user behavior, page discovery, exit rates, and blog performance.
+* Delivered **actionable, data-supported recommendations** for SEO and UX improvements.
+
+### Skills Applied
+* Web Analytics (Wix Analytics)
+* Data Analysis (Data & Trend Analysis)
+* SEO & UX Optimization
+* Reporting & Documentation (Markdown / PDF)
+
+### Results & Recommendations
+* ~70–75% of traffic is direct → indicates weak SEO discovery
+* 90% of users land on homepage only → poor navigation
+* Exit rates reach 80–90% → low engagement
+* Blog contributes ~1% → minimal acquisition channel
+* Recommendations:
+  - Improve homepage structure and internal linking
+  - Align content with search intent
+  - Enhance content for SEO and AI-driven discoverability
+  - Test messaging clarity, mobile usability, and localized content strategies
+
+### **Project Details:**
+<table>
+  <thead>
+    <tr>
+      <th>Project</th>
+      <th>Description</th>
+      <th>Preview</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href="Project/Web-Analytics/Website%20Traffic%20&%20Google%20Search%20Visibility%20Baseline%20Analysis%20(Client)/README.md">Website Traffic & SEO Baseline Analysis</a></td>
+      <td>Sanitized enterprise case study using <b>real client website data</b>, with actionable recommendations for SEO, UX, and content optimization. All sensitive client information anonymized.</td>
+      <td>
+        <a href="Project/Web-Analytics/Website%20Traffic%20&%20Google%20Search%20Visibility%20Baseline%20Analysis%20(Client)/README.md">
+          <img src="Project/Web-Analytics/Website%20Traffic%20&%20Google%20Search%20Visibility%20Baseline%20Analysis%20(Client)//src/Web%20Analysis%20Report%202026%20-%20SS1.png" height="300"/>
+        </a>
+      </td>
+    </tr>
+  </tbody>
+</table>
+
+</details>
+<!--End of Website Traffic & SEO Baseline Analysis-->
   
 <!--Start of Resort Payment Collection Dashboard-->
 <details>
