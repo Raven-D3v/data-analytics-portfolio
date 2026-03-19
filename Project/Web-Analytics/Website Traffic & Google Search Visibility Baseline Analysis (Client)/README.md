@@ -21,7 +21,7 @@ All company identifiers and sensitive data have been anonymized while preserving
 
 ## TL;DR
 - ~70–75% of traffic is **direct** → weak SEO-driven discovery  
-- >90% of users land on **homepage only** → limited internal navigation  
+- 90% of users land on **homepage only** → limited internal navigation  
 - Exit rates reach **~80–90%** → low engagement depth  
 - Blog contributes **~1%** → not yet a traffic acquisition channel  
 
