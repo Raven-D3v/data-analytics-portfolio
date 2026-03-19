@@ -1,6 +1,6 @@
 # Website Traffic & SEO Baseline Analysis (Client Case Study)
 <p align="center">
-  <img src="./src/Web%20Analysis%20Report%202026%20-%20SS.png" height="300"/>
+  <img src="./src/Web%20Analysis%20Report%202026%20-%20SS1.png" height="300"/>
 </p>
 
 > Identifying SEO limitations and user behavior patterns using real enterprise website data to enable immediate optimization.
