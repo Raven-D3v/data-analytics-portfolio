@@ -43,7 +43,7 @@ Key components include:
 
 ## 📄 Download / View Full Report
 
-[Open / Download PDF](./Website_Traffic_Baseline_Analysis.pdf)
+[Open / Download PDF](./website-traffic-seo-baseline-analysis-client-case-study.pdf)
 
 > **Note:** This report is a sanitized version of a real client deliverable. All sensitive data has been modified for confidentiality.
 
