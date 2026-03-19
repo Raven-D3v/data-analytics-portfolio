@@ -1,5 +1,7 @@
 # Website Traffic & Google Search Visibility Baseline Analysis
-![Report Preview](./images/dashboard-preview.png)
+<p align="center">
+  <img src="./src/Web%20Analysis%20Report%202026%20-%20SS.png" height="300"/>
+</p>
 
 **Project Type:** Website Analytics Case Study (Client Work – Confidential Data Modified)  
 **Platform:** Wix Analytics  
@@ -46,8 +48,8 @@ The full PDF version of the report can be accessed here:
 ---
 
 ## Tools Used
-- Wix Analytics  
-- Microsoft Excel (data validation, aggregation, analysis)
+- Wix Analytics
+- Google Docs (Documentation)
 
 ---
 
