@@ -10,21 +10,24 @@
 <details>
 <summary>Click to Expand</summary>
 
-### Business Problem
+### Business Problem (Solved)
 
-Organizations and individuals often struggle to make sense of large, messy datasets or need faster decision-making tools. Students also face difficulty reporting emergencies discreetly and without internet, causing delays in response and underreporting.
+- Organizations and individuals often struggle to make sense of large, messy datasets or need faster decision-making tools. 
+- Students also face difficulty reporting emergencies discreetly and without internet, causing delays in response and underreporting.
+- Businesses face challenges in **website traffic visibility, SEO discoverability, and user engagement**, limiting growth opportunities.
 
 ### Solution
 
-I specialize in building **data pipelines, dashboards, and AI-powered systems** to transform raw data into actionable insights. My approach combines **automation, analytics, and practical AI** to solve real-world problems efficiently.
+I specialize in building **data pipelines, dashboards, AI-powered systems, and web analytics solutions** to transform raw data into actionable insights. My approach combines **automation, analytics, SEO insights, and practical AI** to solve real-world problems efficiently.
 
 ### Impact & Next Steps
 
 * Analyzed **2M+ hospital records** to uncover trends in demographics, insurance, and costs.
 * Built **interactive dashboards** (Excel/Tableau) for healthcare, government, and finance datasets with 100K+ rows, improving reporting efficiency by **up to 95%**.
 * Developed **OneTapSOS**, an AI-powered SMS emergency alert system, enabling faster and discreet reporting, improving responder awareness by **70%**, and presented at the **International Research Conference 2025**.
+* Conducted **Website Traffic & SEO Baseline Analysis** for enterprise clients using Wix Analytics, uncovering poor organic search visibility, high homepage dependency, and low blog engagement, with **actionable recommendations** to improve SEO, UX, and content discoverability.
 
-Next steps: Expand into **forecasting, predictive analytics, and AI-integrated solutions** for business, healthcare, and public safety.
+Next steps: Expand into **forecasting, predictive analytics, AI-integrated solutions**, and **web performance optimization** for business, healthcare, and public safety.
 
 </details>
 
