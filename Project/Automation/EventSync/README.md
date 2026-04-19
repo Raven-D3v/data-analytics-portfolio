@@ -122,6 +122,10 @@ Google Sheets was chosen as the data layer because it is already the primary too
 
 ### 🔧 2. Logic & API Layer — Google Apps Script
 
+<p>
+  <img src="src/image10.png" alt="Google Sheets Data Layer Overview" height="200"/>
+</p>
+
 **Role:** Serverless backend / middleware layer
 
 **Handles:**
@@ -140,6 +144,10 @@ Google Sheets was chosen as the data layer because it is already the primary too
 ---
 
 ### 🔁 3. Orchestration Layer — n8n (Core Engine)
+
+<p>
+  <img src="src/attendReg_wFlow.jpeg" alt="Google Sheets Data Layer Overview" width="400"/>
+</p>
 
 **Role:** Central workflow orchestration engine
 
@@ -207,7 +215,7 @@ This system implements a **multi-level administrative architecture**:
 ## 🆔 Participant Identity Management
 
 <p align="center">
-  <img src="src/image13.png" alt="Email Confirmation with Participant ID" width="400"/>
+  <img src="src/image13.png" alt="Email Confirmation with Participant ID" width="500"/>
 </p>
 
 - Unique Participant IDs are auto-generated  
@@ -219,7 +227,7 @@ This system implements a **multi-level administrative architecture**:
 ## 💳 Payment Processing Flow
 
 <p align="center">
-  <img src="src/image8.png" alt="Email Confirmation with Participant ID" width="400"/>
+  <img src="src/image8.png" alt="Email Confirmation with Participant ID" width="500"/>
 </p>
 
 - Payment instructions dynamically configured per event  
@@ -234,7 +242,7 @@ This system implements a **multi-level administrative architecture**:
 ## 🎟️ Real-Time Attendance Validation
 
 <p align="center">
-  <img src="src/image7.png" alt="Email Confirmation with Participant ID" width="400"/>
+  <img src="src/image7.png" alt="Email Confirmation with Participant ID" width="500"/>
 </p>
 
 - Participant ID is verified  
