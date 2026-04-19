@@ -287,3 +287,22 @@ This system implements a **multi-level administrative architecture**:
 EventSync demonstrates how real systems can be built by **integrating existing tools into a unified architecture**, rather than building everything from scratch.
 
 > Built with a **system architecture mindset**, focused on integration, automation, and real-world usability.
+
+---
+
+## 📩 Demo Request 
+
+If you'd like to see the system in action or walk through the architecture and workflows, feel free to reach out.
+
+👉 **Message me for a live demo or system walkthrough.**
+
+🌍 **[All Links & Socials](https://linktr.ee/projectRaven)**  
+📧 project.raven2024@gmail.com
+
+<p align="left">
+  <a href="https://www.facebook.com/profile.php?id=61562294530876"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white" /></a>
+  <a href="https://www.instagram.com/project.raven2024"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/raven-klein-r-8705222b6"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" /></a>
+  <a href="https://www.tiktok.com/@project_raven2024"><img src="https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white" /></a>
+  <a href="mailto:project.raven2024@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" /></a>
+</p>
