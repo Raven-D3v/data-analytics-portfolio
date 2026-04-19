@@ -23,11 +23,15 @@ Instead of building a monolithic system from scratch, this solution **connects, 
 ---
 
 <p align="center">
-  <img src="YOUR_SYSTEM_FLOW_OR_DASHBOARD_IMAGE_URL" alt="System Flow Overview" width="800"/>
+  <img src="src/Event Flow Image Apr 19, 2026.png" alt="System Flow Overview" width="500"/>
 </p>
 
 <p align="center">
   <em>Event-Driven System Flow: From Registration to Attendance Validation</em>
+</p>
+
+<p align="center">
+  <sub>Note: This system flow diagram is AI-generated for visualization purposes.</sub>
 </p>
 
 ---
