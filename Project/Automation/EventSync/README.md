@@ -253,98 +253,37 @@ This system implements a **multi-level administrative architecture**:
 
 ---
 
-## 🔗 System Integration Flow (Detailed)
+## ⚙️ Key Features (MVP)
 
-| Step | Layer | Action |
-|------|------|--------|
-| 1 | Input Layer | User submits event/registration |
-| 2 | Data Layer | Data stored in Google Sheets |
-| 3 | Logic Layer | Validation + ID generation |
-| 4 | Orchestration Layer | n8n triggers workflows |
-| 5 | Output | Email + payment instructions sent |
-| 6 | Data Layer | Payment status updated |
-| 7 | Input Layer | Attendance validated in real-time |
-
----
-
-## 🔄 Core System Logic
-
-### 🆔 Identity System
-- Participant ID acts as universal system key  
-- Links registration, payment, and attendance  
-
-### 💳 Payment System
-- Dynamic payment configuration per event  
-- Admin-controlled verification workflow  
-
-### 🎟️ Attendance System
-- Real-time validation using system state  
-- Gate access based on rule checks  
-
----
-
-## ✅ Current Features (MVP Scope)
-
-- Event Creation System  
-- Attendee Registration System  
-- Automated Email Confirmation  
-- Participant ID Generation  
-- Payment Configuration per Event  
-- Payment Verification Workflow  
-- Real-Time Attendance Validation  
-
----
-
-## 🧠 Architecture Decisions & Tradeoffs
-
-### ⚖️ No Traditional Backend
-- ❌ Less scalable  
-- ✅ Faster development  
-- ✅ Lower complexity  
-- ✅ Accessible for non-engineers  
-
-### ⚖️ Use of n8n Orchestration
-- ❌ Added system complexity  
-- ✅ Enables scalable automation  
-- ✅ Decouples workflows  
-
-### ⚖️ Event-Driven Architecture
-- ❌ Requires structured data flow  
-- ✅ Eliminates manual coordination  
-- ✅ Enables automation at scale  
+- Event creation system  
+- Automated registration flow  
+- Email confirmation with Participant ID  
+- Dynamic payment configuration  
+- Payment verification workflow  
+- Real-time attendance validation  
 
 ---
 
 ## 📈 Business Value
 
-- ⚡ Reduced manual workload  
-- 📊 Centralized and consistent data  
-- 🔁 Reliable automated workflows  
-- 😊 Improved user experience  
-- 🧩 Scalable event operations  
+- Reduces manual workload  
+- Centralizes fragmented data  
+- Automates repetitive workflows  
+- Improves attendee experience  
+- Enables scalable event operations  
 
 ---
 
-## 🚧 MVP Constraints
+## 🧠 Architecture Decisions
 
-- No overengineering  
-- Focus only on core workflows  
-- Designed for rapid deployment  
-
-> 💡 Built as a **functional system, not a theoretical prototype**
+- **Google Sheets** → adopted instead of database for real-world usability  
+- **n8n** → used as orchestration engine, not simple automation  
+- **Event-driven design** → reduces manual coordination and errors  
 
 ---
 
 ## 🏁 Conclusion
 
-EventSync demonstrates how **system integration and orchestration** can replace traditional development-heavy approaches.
+EventSync demonstrates how real systems can be built by **integrating existing tools into a unified architecture**, rather than building everything from scratch.
 
-Instead of building everything from scratch, this system proves that:
-
-> **Real-world systems can be built by connecting tools intelligently, not reinventing them.**
-
----
-
-<p align="center">
-  <strong>Built with a System Architect mindset — not just a developer mindset.</strong>
-</p>
+> Built with a **system architecture mindset**, focused on integration, automation, and real-world usability.
