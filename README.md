@@ -93,6 +93,66 @@ Students lack a fast, discreet, and internet-independent way to report emergenci
 </details>
 <!--End of OneTapSOS-->
 
+<!--Start of EventSync-->
+<details>
+<summary>EventSync </summary>
+
+### System Title: 
+EventSync: System Integration Architecture (n8n-Orchestrated Event Management System)
+
+### Business Problem
+
+Event workflows (registration, payment, attendance) are often **fragmented across tools**, leading to manual coordination, data inconsistencies, and poor operational visibility.
+
+### Methodology
+
+* Designed a **System Integration Architecture (SIA)** instead of a monolithic system.
+* Used **Google Sheets as the data layer** (aligned with real-world event manager workflows).
+* Built backend logic using **Google Apps Script (serverless middleware)**.
+* Leveraged **n8n as a central orchestration engine** to automate event-driven workflows.
+* Integrated email automation, participant ID generation, payment tracking, and attendance validation into one unified flow.
+
+### Skills Applied
+
+* System Design & Architecture (SIA, Event-Driven Systems)  
+* Automation (n8n – advanced workflow orchestration)  
+* Google Sheets + Apps Script (Data Layer + Backend Logic)  
+* API Thinking & Integration Design  
+* Process Automation & Workflow Optimization  
+
+### Results & Key Insight
+
+* Eliminated manual coordination across event workflows through automation  
+* Created a **single source of truth** for real-time event data  
+* Reduced repetitive admin tasks across registration, payment, and attendance  
+* ✅ **Validated that n8n can function as a full system orchestration layer—not just a simple automation tool**
+
+### **Project Details:**
+
+<table>
+  <thead>
+    <tr>
+      <th>Project</th>
+      <th>Description</th>
+      <th>Preview</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href="Project/Automation/EventSync/README.md">EventSync</a></td>
+      <td>A system integration architecture that connects Google Sheets, Apps Script, and n8n into a unified event management system. Handles registration, payment workflows, email automation, and real-time attendance validation using an event-driven design.</td>
+      <td>
+        <a href="Project/Automation/EventSync/README.md">
+          <img src="Project/Automation/EventSync/src/image4.png" height="300"/>
+        </a>
+      </td>
+    </tr>
+  </tbody>
+</table>
+
+</details>
+<!--End of EventSync-->
+
 <!--Start of TG Finance Tracker-->
   <details>
   <summary>TG Finance Tracker</summary>
