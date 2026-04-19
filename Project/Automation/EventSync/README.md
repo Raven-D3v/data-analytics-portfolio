@@ -164,7 +164,7 @@ Google Sheets was chosen as the data layer because it is already the primary too
 - Enables scalable workflow design  
 - Centralizes system behavior control  
 
-> 📌 Orchestration layer connecting all system components into one automated flow
+> 📌 This project validates that n8n can operate as a **core orchestration layer for real system-level applications**
 
 ---
 
