@@ -1,5 +1,15 @@
-# 🧩 EventSync
-A System Integration Architecture for Automated Event Workflows
+# 🧩 EventSync  
+### A System Integration Architecture for Automated Event Workflows
+
+<p align="center">
+  <img src="YOUR_MAIN_SCREENSHOT_URL" alt="EventSync System Overview" width="800"/>
+</p>
+
+<p align="center">
+  <em>System Overview: Event Creation • Registration • Payment • Attendance Validation</em>
+</p>
+
+---
 
 ## 🚀 Overview
 
