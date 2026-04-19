@@ -162,6 +162,10 @@ Google Sheets was chosen as the data layer because it is already the primary too
 
 ### 🌐 4. Input Layer — Lightweight Interface
 
+<p>
+  <img src="src/image2.png" alt="Google Sheets Data Layer Overview" width="400"/>
+</p>
+
 **Role:** User interaction layer
 
 **Handles:**
@@ -203,7 +207,7 @@ This system implements a **multi-level administrative architecture**:
 ## 🆔 Participant Identity Management
 
 <p align="center">
-  <img src="YOUR_EMAIL_CONFIRMATION_IMAGE_URL" alt="Email Confirmation with Participant ID" width="600"/>
+  <img src="src/image13.png" alt="Email Confirmation with Participant ID" width="400"/>
 </p>
 
 - Unique Participant IDs are auto-generated  
@@ -215,7 +219,7 @@ This system implements a **multi-level administrative architecture**:
 ## 💳 Payment Processing Flow
 
 <p align="center">
-  <img src="YOUR_PAYMENT_VERIFICATION_IMAGE_URL" alt="Payment Verification System" width="700"/>
+  <img src="src/image8.png" alt="Email Confirmation with Participant ID" width="400"/>
 </p>
 
 - Payment instructions dynamically configured per event  
@@ -230,7 +234,7 @@ This system implements a **multi-level administrative architecture**:
 ## 🎟️ Real-Time Attendance Validation
 
 <p align="center">
-  <img src="YOUR_ATTENDANCE_IMAGE_URL" alt="Attendance Validation System" width="700"/>
+  <img src="src/image7.png" alt="Email Confirmation with Participant ID" width="400"/>
 </p>
 
 - Participant ID is verified  
