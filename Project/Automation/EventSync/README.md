@@ -94,6 +94,10 @@ This system follows an **event-driven integration model**, where each action tri
 
 ### 🧩 1. Data Layer — Google Sheets
 
+<p>
+  <img src="src/image3.png" alt="Google Sheets Data Layer Overview" width="400"/>
+</p>
+
 **Role:** Centralized data layer (Single Source of Truth)
 
 **Manages:**
@@ -103,7 +107,11 @@ This system follows an **event-driven integration model**, where each action tri
 - System state tracking  
 
 **Why this exists:**
-- Real-time collaborative database behavior  
+
+Google Sheets was chosen as the data layer because it is already the primary tool used by event managers.
+
+- Real-time collaborative database behavior
+- Aligns with current tools already used in event operations  
 - No backend infrastructure required  
 - Accessible to non-technical users  
 - Fast iteration and deployment  
