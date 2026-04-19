@@ -290,6 +290,15 @@ EventSync demonstrates how real systems can be built by **integrating existing t
 
 ---
 
+## 📄 Academic Documentation
+
+This project is formally documented as part of a Bachelor of Science in Information Technology requirement at City of Malabon University.
+
+📘 Full Thesis Documentation:  
+[View Academic Paper](src/Rubin%20-%20SIA%202%20Finals%20-%20CMU%20Event%20Management%20System%20(Docu).pdf)
+ 
+---
+
 ## 📩 Demo Request 
 
 If you'd like to see the system in action or walk through the architecture and workflows, feel free to reach out.
