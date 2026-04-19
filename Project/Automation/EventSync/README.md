@@ -1,4 +1,4 @@
-# 🧩 System Integration Architecture (SIA): Automated Event Management System
+# EventSync: A System Integration Architecture for Automated Event Workflows
 
 ## 🚀 Overview
 
