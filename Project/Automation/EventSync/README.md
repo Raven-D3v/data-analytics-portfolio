@@ -2,7 +2,7 @@
 ### A System Integration Architecture for Automated Event Workflows
 
 <p align="center">
-  <img src="YOUR_MAIN_SCREENSHOT_URL" alt="EventSync System Overview" width="800"/>
+  <img src="src/image4.png" alt="EventSync System Overview" width="600"/>
 </p>
 
 <p align="center">
@@ -19,6 +19,16 @@ Instead of building a monolithic system from scratch, this solution **connects, 
 
 > 💡 Core Principle:  
 > **“Connect, automate, and orchestrate — instead of rebuild.”**
+
+---
+
+<p align="center">
+  <img src="YOUR_SYSTEM_FLOW_OR_DASHBOARD_IMAGE_URL" alt="System Flow Overview" width="800"/>
+</p>
+
+<p align="center">
+  <em>Event-Driven System Flow: From Registration to Attendance Validation</em>
+</p>
 
 ---
 
@@ -76,110 +86,146 @@ This system follows an **event-driven integration model**, where each action tri
 
 ## ⚙️ Architecture Layers & Rationale
 
+---
+
 ### 🧩 1. Data Layer — Google Sheets
 
-**Role:**  
-Acts as the **centralized data layer (single source of truth)**
+**Role:** Centralized data layer (Single Source of Truth)
 
 **Manages:**
 - Events  
 - Attendees  
 - Payments  
-- System states (registration, payment, attendance)
+- System state tracking  
 
 **Why this exists:**
+- Real-time collaborative database behavior  
+- No backend infrastructure required  
+- Accessible to non-technical users  
+- Fast iteration and deployment  
 
-- Enables real-time, collaborative data updates  
-- Removes need for traditional database infrastructure  
-- Accessible to non-technical stakeholders  
-- Supports rapid deployment and iteration  
-
-> 📌 *A lightweight but powerful data layer enabling fast system deployment*
+> 📌 Lightweight data layer enabling rapid system development
 
 ---
 
 ### 🔧 2. Logic & API Layer — Google Apps Script
 
-**Role:**  
-Acts as a **serverless backend and middleware layer**
+**Role:** Serverless backend / middleware layer
 
 **Handles:**
-
 - Data validation and processing  
 - Participant ID generation  
 - Event creation logic  
-- API-like endpoints for system interaction  
+- API-like system interactions  
 
 **Why this exists:**
+- Bridges frontend input and automation layer  
+- Eliminates need for traditional backend systems  
+- Enables structured business logic inside the ecosystem  
 
-- Bridges input layer and orchestration layer  
-- Eliminates need for backend frameworks  
-- Enables structured business logic within the ecosystem  
-
-> 📌 *A middleware layer that executes core system logic without infrastructure overhead*
+> 📌 Middleware layer enabling business logic execution without infrastructure overhead
 
 ---
 
-### 🔁 3. Orchestration Layer — n8n (Core System Component)
+### 🔁 3. Orchestration Layer — n8n (Core Engine)
 
-**Role:**  
-Acts as the **central workflow orchestration engine**
+**Role:** Central workflow orchestration engine
 
-> ⚠️ Not just automation — this is the **system’s control layer**
+> ⚠️ Not just automation — this is the **system brain**
 
 **Handles:**
-
-- Event-driven workflow execution  
+- Event-driven workflows  
 - Email confirmation pipelines  
-- Dynamic payment instructions per event  
+- Payment instruction automation  
 - Cross-system coordination  
 
 **Why this exists:**
+- Decouples system logic from data layer  
+- Enables scalable workflow design  
+- Centralizes system behavior control  
 
-- Decouples workflow logic from the data layer  
-- Enables modular and scalable workflow design  
-- Centralizes control of system behavior  
-
-> 📌 *A workflow orchestration layer enabling automated, cross-system interactions*
+> 📌 Orchestration layer connecting all system components into one automated flow
 
 ---
 
 ### 🌐 4. Input Layer — Lightweight Interface
 
-**Role:**  
-Captures structured input for:
+**Role:** User interaction layer
 
+**Handles:**
 - Event creation  
 - Attendee registration  
 - Payment submission  
 - Attendance validation  
 
 **Design Philosophy:**
+- Functional over aesthetic complexity  
+- Optimized for usability and speed  
 
-- Functional over visual complexity  
-- Optimized for speed and usability  
+> 📌 Minimal interface designed for efficient system input
 
-> 📌 *A minimal interface designed to efficiently feed data into the system*
+---
 
 ---
 
 ## 🔐 Access Control & Role-Based System Design
 
-The system implements a **multi-level administrative architecture** to reflect real-world operational workflows:
+This system implements a **multi-level administrative architecture**:
 
 | Level | Role | Responsibility |
 |------|------|----------------|
 | Level 4 | Master Admin | System-wide control, event creation, data management |
-| Level 3 | Event Manager | Manages specific events and attendee records |
-| Level 2 | Finance/Admin | Verifies payments and configures payment details |
-| Level 1 | Gatekeeper | Validates attendance during events |
+| Level 3 | Event Manager | Manages specific events and attendees |
+| Level 2 | Finance/Admin | Payment verification and configuration |
+| Level 1 | Gatekeeper | Attendance validation during events |
 
-### 🎯 Why this matters:
+### 🎯 Why this matters
 
-- Prevents unauthorized data access and conflicts  
-- Enables clear separation of responsibilities  
-- Mirrors real-world organizational structures  
-- Supports scalable delegation of operations  
+- Prevents unauthorized system changes  
+- Mirrors real-world organizational workflows  
+- Enables delegation of responsibilities  
+- Supports scalable operations  
+
+---
+
+## 🆔 Participant Identity Management
+
+<p align="center">
+  <img src="YOUR_EMAIL_CONFIRMATION_IMAGE_URL" alt="Email Confirmation with Participant ID" width="600"/>
+</p>
+
+- Unique Participant IDs are auto-generated  
+- Serves as system-wide identifier  
+- Used for registration, payment, and attendance tracking  
+
+---
+
+## 💳 Payment Processing Flow
+
+<p align="center">
+  <img src="YOUR_PAYMENT_VERIFICATION_IMAGE_URL" alt="Payment Verification System" width="700"/>
+</p>
+
+- Payment instructions dynamically configured per event  
+- Attendees submit proof of payment  
+- Admin verifies transactions  
+- System updates payment status in real-time  
+
+> 💡 Enables structured financial tracking without external payment systems
+
+---
+
+## 🎟️ Real-Time Attendance Validation
+
+<p align="center">
+  <img src="YOUR_ATTENDANCE_IMAGE_URL" alt="Attendance Validation System" width="700"/>
+</p>
+
+- Participant ID is verified  
+- Payment status is checked  
+- Access granted if both conditions are valid  
+
+> 📌 Rule-based validation system powered by live system data
 
 ---
 
@@ -187,11 +233,11 @@ The system implements a **multi-level administrative architecture** to reflect r
 
 | Step | Layer | Action |
 |------|------|--------|
-| 1 | Input Layer | User submits event or registration |
-| 2 | Data Layer | Data stored and structured |
-| 3 | Logic Layer | Validation and ID generation |
-| 4 | Orchestration Layer | Workflow triggered via event |
-| 5 | Output | Email confirmation + payment instructions |
+| 1 | Input Layer | User submits event/registration |
+| 2 | Data Layer | Data stored in Google Sheets |
+| 3 | Logic Layer | Validation + ID generation |
+| 4 | Orchestration Layer | n8n triggers workflows |
+| 5 | Output | Email + payment instructions sent |
 | 6 | Data Layer | Payment status updated |
 | 7 | Input Layer | Attendance validated in real-time |
 
@@ -199,81 +245,46 @@ The system implements a **multi-level administrative architecture** to reflect r
 
 ## 🔄 Core System Logic
 
-### 🆔 Participant Identity Management
+### 🆔 Identity System
+- Participant ID acts as universal system key  
+- Links registration, payment, and attendance  
 
-- Unique Participant IDs are automatically generated  
-- Acts as the **primary identifier across the system**  
-- Used for:
-  - Registration tracking  
-  - Payment verification  
-  - Attendance validation  
+### 💳 Payment System
+- Dynamic payment configuration per event  
+- Admin-controlled verification workflow  
 
----
-
-### 💳 Payment Processing Flow
-
-- Payment instructions dynamically configured per event  
-- Attendees submit proof of payment  
-- Admin verifies transaction  
-- System updates payment status in real-time  
-
-> 💡 Ensures structured and traceable financial flow without external payment systems
-
----
-
-### 🎟️ Real-Time Attendance Validation
-
-- Admin checks:
-  - Participant ID exists  
-  - Payment status is verified  
-
-**If both conditions are met → Access Granted**
-
-> 📌 A rule-based validation system powered by live data
+### 🎟️ Attendance System
+- Real-time validation using system state  
+- Gate access based on rule checks  
 
 ---
 
 ## ✅ Current Features (MVP Scope)
 
-- ✅ Event Creation System  
-- ✅ Attendee Registration System  
-- ✅ Automated Email Confirmation  
-- ✅ Dynamic Payment Configuration per Event  
-- ✅ Participant ID Generation  
-- ✅ Payment Verification Workflow  
-- ✅ Real-Time Attendance Validation  
+- Event Creation System  
+- Attendee Registration System  
+- Automated Email Confirmation  
+- Participant ID Generation  
+- Payment Configuration per Event  
+- Payment Verification Workflow  
+- Real-Time Attendance Validation  
 
 ---
 
 ## 🧠 Architecture Decisions & Tradeoffs
 
-### ⚖️ Why Not a Traditional Backend?
+### ⚖️ No Traditional Backend
+- ❌ Less scalable  
+- ✅ Faster development  
+- ✅ Lower complexity  
+- ✅ Accessible for non-engineers  
 
-**Decision:** Use Google Sheets + Apps Script instead of a custom backend
+### ⚖️ Use of n8n Orchestration
+- ❌ Added system complexity  
+- ✅ Enables scalable automation  
+- ✅ Decouples workflows  
 
-**Tradeoff:**
-- ❌ Less scalable than enterprise infrastructure  
-- ✅ Significantly faster to build and deploy  
-- ✅ More accessible to non-technical users  
-
----
-
-### ⚖️ Why Use an Orchestration Layer?
-
-**Decision:** Centralize workflows in n8n
-
-**Tradeoff:**
-- ❌ Added architectural complexity  
-- ✅ Enables modular, scalable automation  
-- ✅ Decouples system components  
-
----
-
-### ⚖️ Why Event-Driven Design?
-
-**Decision:** Trigger workflows based on system events
-
-**Tradeoff:**
+### ⚖️ Event-Driven Architecture
 - ❌ Requires structured data flow  
 - ✅ Eliminates manual coordination  
 - ✅ Enables automation at scale  
@@ -282,33 +293,34 @@ The system implements a **multi-level administrative architecture** to reflect r
 
 ## 📈 Business Value
 
-This system delivers:
-
-- ⚡ Reduced manual workload through automation  
-- 📊 Consistent and centralized data management  
-- 🔁 Reliable and repeatable workflows  
-- 😊 Improved attendee experience  
-- 🧩 Scalable operations for event organizers  
+- ⚡ Reduced manual workload  
+- 📊 Centralized and consistent data  
+- 🔁 Reliable automated workflows  
+- 😊 Improved user experience  
+- 🧩 Scalable event operations  
 
 ---
 
 ## 🚧 MVP Constraints
 
 - No overengineering  
-- Focused on core workflows only  
-- Built for rapid deployment and iteration  
+- Focus only on core workflows  
+- Designed for rapid deployment  
 
-> 💡 Designed as a **functional, deployable system — not a theoretical build**
+> 💡 Built as a **functional system, not a theoretical prototype**
 
 ---
 
 ## 🏁 Conclusion
 
-This project demonstrates how to design and implement a **System Integration Architecture** that:
+EventSync demonstrates how **system integration and orchestration** can replace traditional development-heavy approaches.
 
-- Connects multiple tools into a unified system  
-- Automates workflows through orchestration  
-- Solves real operational inefficiencies  
-- Delivers business value without heavy infrastructure  
+Instead of building everything from scratch, this system proves that:
 
-> 🚀 Built with a **system-level mindset**, focused on integration, automation, and real-world usability
+> **Real-world systems can be built by connecting tools intelligently, not reinventing them.**
+
+---
+
+<p align="center">
+  <strong>Built with a System Architect mindset — not just a developer mindset.</strong>
+</p>
