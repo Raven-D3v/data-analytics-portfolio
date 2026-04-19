@@ -125,7 +125,7 @@ Event workflows (registration, payment, attendance) are often **fragmented acros
 * Eliminated manual coordination across event workflows through automation  
 * Created a **single source of truth** for real-time event data  
 * Reduced repetitive admin tasks across registration, payment, and attendance  
-* ✅ **Validated that n8n can function as a full system orchestration layer—not just a simple automation tool**
+✅ **Validated that n8n can function as a full system orchestration layer—not just a simple automation tool**
 
 ### **Project Details:**
 
