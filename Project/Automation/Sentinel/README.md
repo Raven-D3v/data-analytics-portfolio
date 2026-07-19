@@ -1,18 +1,38 @@
 # 📅 **SENTINEL:** License Renewal Alert System
 
-An automated **License Renewal Alert System** that monitors software and account license expiration dates stored in **Google Sheets** and sends scheduled email notifications using **n8n**, **Google Calendar**, **Google Apps Script**, and **Gmail**.
+> **A production-ready automation system developed for a real client during my internship to streamline software and account license renewal monitoring.**
 
-This project was developed to eliminate manual license tracking, reduce the risk of expired subscriptions, and provide a simple, maintainable automation workflow for business users.
+SENTINEL is a business automation solution that integrates **Google Sheets**, **n8n**, **Google Calendar**, **Google Apps Script**, and **Gmail** to automatically monitor license expiration dates and notify stakeholders before licenses expire.
+
+Rather than serving as a proof-of-concept, this system was designed, deployed, and documented for an actual business workflow to reduce manual monitoring, improve operational reliability, and minimize the risk of missed license renewals.
+
+> **Portfolio Note:** Company-specific information, credentials, and business data have been removed or anonymized to protect client confidentiality.
+
+---
+
+## 📌 Project Background
+
+This project was developed during my internship after identifying a recurring operational challenge in the client's workflow.
+
+### The Problem
+- License renewal dates were managed in Google Sheets.
+- Employees had to manually monitor expiry dates and remember when to send reminder emails.
+- As the number of licenses increased, the process became repetitive, time-consuming, and susceptible to human error.
 
 ---
 
-## 📌 Overview
+### The Solution
+I designed and implemented **SENTINEL**, an automated monitoring system that:
 
-Managing dozens (or hundreds) of software licenses manually is error-prone and time-consuming. This system automates the entire monitoring process by checking license expiry records and notifying stakeholders before licenses expire.
+- 📊 Uses Google Sheets as the central license database.
+- ⚙️ Monitors license records through n8n workflows.
+- 📅 Uses Google Calendar as a configurable scheduling mechanism.
+- 📧 Automatically sends renewal notifications through Gmail.
+- 🚨 Detects workflow failures and sends error notifications.
+- 📝 Records backend health logs to verify the automation is running correctly.
+- 🔄 Includes a manual fallback trigger for business continuity.
 
-The solution also includes backend health logging, workflow error notifications, and a manual fallback trigger to improve reliability.
-
----
+The system was successfully deployed for internal use, helping automate a real business process while improving reliability and reducing manual administrative work.
 
 ## ✨ Features
 
@@ -26,6 +46,20 @@ The solution also includes backend health logging, workflow error notifications,
 - 👥 Dynamic email recipients from Google Sheets
 - 📈 Notification tracking to prevent duplicate alerts
 - 🛠 Maintenance-friendly documentation
+
+---
+
+## 💼 My Role
+
+As the sole developer of this solution during my internship, I was responsible for:
+
+- Designing the overall automation architecture
+- Developing the n8n workflows
+- Integrating Google Sheets, Gmail, Google Calendar, and Google Apps Script
+- Implementing backend health logging
+- Building workflow error notification and monitoring
+- Writing deployment and maintenance documentation
+- Deploying and testing the solution in the client's production environment
 
 ---
 
@@ -230,14 +264,17 @@ Update Notification Count
 
 ---
 
-## 💡 Challenges Solved
+## 🎯 Business Impact
 
-- Reduced manual license monitoring
-- Eliminated repetitive reminder emails
-- Prevented duplicate notifications
-- Improved automation reliability
-- Added production monitoring
-- Simplified maintenance for future administrators
+This solution helped the client by:
+
+- ✅ Automating license renewal monitoring
+- ✅ Eliminating repetitive manual reminder processes
+- ✅ Reducing the risk of missed license renewals
+- ✅ Allowing non-technical users to manage schedules through Google Calendar
+- ✅ Providing backend monitoring for workflow health
+- ✅ Sending automatic error notifications when automation fails
+- ✅ Simplifying long-term maintenance through comprehensive documentation
 
 ---
 
