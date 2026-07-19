@@ -4,14 +4,10 @@
 
 ## 📌 Project Background
 
-During my internship, I was tasked with solving a recurring operational problem: **tracking hundreds of software and account license expiration dates manually**.
-
-The existing process relied on employees checking spreadsheets and remembering renewal schedules, making it easy to miss expiring licenses and increasing the risk of service interruptions.
-
-To address this, I designed and implemented an automated **License Renewal Alert System** that continuously monitors license records stored in Google Sheets and sends scheduled email notifications to the appropriate stakeholders.
-
-Beyond automating notifications, I also developed supporting features such as backend health monitoring, workflow error notifications, dynamic recipient management, and maintenance documentation to ensure the solution could be maintained even after my internship.
-
-This project was successfully deployed and used as an internal business automation solution.
+- Developed during my internship to solve a **real business problem** involving manual license renewal monitoring.
+- Automated the existing Google Sheets-based process by integrating it with **n8n**, **Gmail**, and **Google Calendar** for scheduled email notifications.
+- Built a workflow that monitors license records in Google Sheets and automatically sends renewal alerts to the appropriate stakeholders.
+- Added production-ready features including backend health logging, workflow error notifications, dynamic email recipients, and comprehensive maintenance documentation.
+- Successfully deployed as an **internal business automation solution** to improve operational efficiency and reduce the risk of missed license renewals.
 
 > **Note:** Company-specific information, credentials, and confidential business data have been removed or anonymized for portfolio purposes.
