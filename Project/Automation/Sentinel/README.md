@@ -1,25 +1,35 @@
 # 📅 SENTINEL: License Renewal Alert System
 
-> **A production-ready automation system developed for a real client during my internship to automate license renewal monitoring and notifications.**
+<p align="center">
+  <img src="YOUR_IMAGE_LINK_HERE" alt="SENTINEL Banner" width="100%">
+</p>
 
-SENTINEL integrates **Google Sheets**, **n8n**, **Google Calendar**, **Google Apps Script**, and **Gmail** to automatically monitor software and account license expiry dates, send scheduled email alerts, and monitor workflow health.
-
-> **Portfolio Note:** Company-specific information and business data have been anonymized to protect client confidentiality.
+<p align="center">
+  <strong>A production-ready automation system developed for a real client during my internship to automate license renewal monitoring and notifications.</strong>
+</p>
 
 ---
 
-## 📌 Project Background
+SENTINEL integrates **Google Sheets**, **n8n**, **Google Calendar**, **Google Apps Script**, and **Gmail** to automatically monitor software and account license expiry dates, send scheduled email alerts, and monitor workflow health.
 
-### Problem
-The client managed license renewals through Google Sheets, requiring employees to manually monitor expiry dates and send reminder emails. As the number of licenses grew, the process became repetitive, time-consuming, and prone to human error.
+> **Portfolio Note:** Company-specific information, branding, and business data have been anonymized to protect client confidentiality.
 
-### Solution
+---
+
+# 📌 Project Background
+
+## Problem
+
+The client managed software and account license renewals using Google Sheets. Employees manually monitored expiry dates and sent reminder emails, making the process repetitive, time-consuming, and prone to human error.
+
+## Solution
+
 I designed and deployed **SENTINEL**, a business automation system that:
 
-- 📊 Uses Google Sheets as the license database
-- ⚙️ Automates monitoring with n8n
+- 📊 Uses Google Sheets as the centralized license database
+- ⚙️ Automates monitoring using n8n
 - 📅 Uses Google Calendar for configurable scheduling
-- 📧 Sends renewal notifications via Gmail
+- 📧 Sends renewal notifications through Gmail
 - 🚨 Includes workflow error notifications and backend health logging
 - 🔄 Supports manual execution through Google Apps Script
 
@@ -27,33 +37,11 @@ The solution was successfully deployed for internal business use.
 
 ---
 
-## ✨ Key Features
+# 🏗️ System Architecture
 
-- Automated license renewal email notifications
-- Google Calendar-based scheduling
-- Manual "Send Alert" button
-- Dynamic email recipients
-- Backend health logging
-- Workflow error notifications
-- Notification tracking
-- Maintenance documentation
-
----
-
-## 💼 My Role
-
-As the sole developer during my internship, I was responsible for:
-
-- Designing the automation architecture
-- Developing the n8n workflows
-- Integrating Google Workspace services
-- Implementing backend monitoring and error notifications
-- Writing deployment and maintenance documentation
-- Deploying and testing the solution
-
----
-
-## 🏗 System Architecture
+<p align="center">
+  <img src="YOUR_ARCHITECTURE_IMAGE_LINK_HERE" alt="System Architecture" width="90%">
+</p>
 
 ```text
 Google Sheets
@@ -76,97 +64,111 @@ Google Calendar │
 Email Alerts  Error Handler
  │              │
  ▼              ▼
-Gmail       Error Notification
-                │
-                ▼
-          Backend Log Sheet
+Gmail      Backend Logs
 ```
 
 ---
 
-## 🛠 Tech Stack
+# ✨ Key Features
 
-- n8n
-- Google Sheets
-- Google Apps Script
-- Google Calendar
-- Gmail
-- Render
-- Supabase
-
----
-
-## 📸 Screenshots
-
-Include:
-
-- Google Sheets dashboard
-- Main n8n workflow
-- Email notification
-- Error notification
-- Backend logs
-- Manual "Send Alert" button
+- ✅ Automated license renewal email notifications
+- 📅 Google Calendar-based scheduling
+- 🖱️ Manual "Send Alert" button
+- 👥 Dynamic email recipients
+- 📊 Backend health logging
+- 🚨 Workflow error notifications
+- 📬 Notification tracking
+- 📖 Maintenance documentation
 
 ---
 
-## 📈 Workflow
+# 📸 Project Preview
 
-```text
-Google Calendar
-      │
-      ▼
-Read Google Sheets
-      │
-      ▼
-Filter Expiring Licenses
-      │
-      ▼
-Send Email via Gmail
-      │
-      ▼
-Update Notification Count
-```
+## 📊 Google Sheets Backend
+
+<p align="center">
+  <img src="YOUR_GOOGLE_SHEETS_IMAGE_LINK_HERE" alt="Google Sheets Backend" width="95%">
+</p>
+
+> **Shows:** License database, expiry dates, recipient management, and manual trigger interface.
 
 ---
 
-## 🎯 Business Impact
+## ⚙️ n8n Workflow
 
-- Reduced manual license monitoring
-- Automated reminder emails
-- Minimized missed renewals
-- Added workflow monitoring and error alerts
-- Improved long-term maintainability
+<p align="center">
+  <img src="YOUR_N8N_WORKFLOW_IMAGE_LINK_HERE" alt="n8n Workflow" width="95%">
+</p>
 
----
-
-## 🚀 Future Improvements
-
-- Microsoft Teams / Slack integration
-- SMS notifications
-- Analytics dashboard
-- Multi-company support
-- Configurable reminder intervals
+> **Shows:** Main automation workflow responsible for monitoring license renewals and sending notifications.
 
 ---
 
-## 📚 Skills Demonstrated
+## 📧 Email Notification
 
-- Workflow Automation
-- Google Workspace Integration
-- n8n Development
-- Business Process Automation
-- Error Handling & Monitoring
-- Production Deployment
-- Technical Documentation
+<p align="center">
+  <img src="YOUR_EMAIL_IMAGE_LINK_HERE" alt="Email Notification" width="75%">
+</p>
+
+> **Shows:** Sample automated renewal notification email sent to recipients.
 
 ---
 
-## 👨‍💻 Author
+## 📈 Backend Monitoring
 
-**RavenKlein T. Rubin**
+<p align="center">
+  <img src="YOUR_MONITORING_IMAGE_LINK_HERE" alt="Backend Monitoring" width="95%">
+</p>
 
-BS Information Technology  
-Data Analyst | Automation Developer
+> **Shows:** Workflow execution logs, health monitoring, and error notification system.
 
-GitHub: https://github.com/Raven-D3v
-LinkedIn: *(Add your LinkedIn profile)*
+---
+
+# 💼 My Role
+
+As the **sole developer** during my internship, I was responsible for:
+
+- Designing the automation architecture
+- Developing the n8n workflows
+- Integrating Google Workspace services
+- Implementing backend monitoring and workflow error notifications
+- Writing deployment and maintenance documentation
+- Deploying, testing, and maintaining the solution
+
+---
+
+# 🛠️ Tech Stack
+
+| Category | Technologies |
+|-----------|--------------|
+| Automation | n8n |
+| Database | Google Sheets |
+| Scripting | Google Apps Script |
+| Scheduling | Google Calendar |
+| Notifications | Gmail |
+| APIs | Google Workspace APIs |
+| Monitoring | n8n Workflow Logs |
+
+---
+
+# 🚀 Business Impact
+
+- Reduced repetitive manual license monitoring
+- Centralized license renewal management
+- Automated email reminders
+- Improved workflow reliability through backend monitoring
+- Minimized missed renewals caused by human error
+
+---
+
+# 🔒 Confidentiality Notice
+
+This repository showcases the technical architecture and implementation approach used during a real-world internship project.
+
+To protect client confidentiality:
+
+- Company information has been removed.
+- Business data has been anonymized.
+- Sensitive workflow details have been omitted or simplified.
+
+The project structure and automation logic remain representative of the production solution.
