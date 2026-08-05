@@ -1,7 +1,7 @@
 # 📅 SENTINEL: License Renewal Alert System
 
 <p align="center">
-  <img src="YOUR_IMAGE_LINK_HERE" alt="SENTINEL Banner" width="100%">
+  <img src="https://github.com/Raven-D3v/data-analytics-portfolio/blob/94b3239edf70ed3b4723e66be9860ba32960f657/Project/Automation/Sentinel/src/SENTI_Email.png" alt="SENTINEL Banner" width="100%">
 </p>
 
 <p align="center">
@@ -38,10 +38,6 @@ The solution was successfully deployed for internal business use.
 ---
 
 # 🏗️ System Architecture
-
-<p align="center">
-  <img src="YOUR_ARCHITECTURE_IMAGE_LINK_HERE" alt="System Architecture" width="90%">
-</p>
 
 ```text
 Google Sheets
