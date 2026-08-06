@@ -122,6 +122,9 @@ Gmail      Backend Logs
 </tr>
 </table>
 
+> **Shows:** Email alert notification sent on desktop and on mobile.
+> 
+
 ---
 
 ## 📈 Backend Monitoring
