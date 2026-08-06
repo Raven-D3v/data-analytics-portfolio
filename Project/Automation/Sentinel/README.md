@@ -116,7 +116,7 @@ Gmail      Backend Logs
 
 **Mobile View**
 
-<img src="YOUR_MOBILE_EMAIL_IMAGE_LINK_HERE" alt="Mobile Email Notification" width="100%">
+<img src="https://github.com/Raven-D3v/data-analytics-portfolio/blob/b00c51091a2e331001835a11f8ab36dd45ca72b8/Project/Automation/Sentinel/src/SENTIL%20-%20Email_Mob1.jpg" alt="Mobile Email Notification" width="100%">
 
 </td>
 </tr>
