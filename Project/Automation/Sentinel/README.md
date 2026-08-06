@@ -83,7 +83,7 @@ Gmail      Backend Logs
 ## 📊 Google Sheets Backend
 
 <p align="center">
-  <img src="YOUR_GOOGLE_SHEETS_IMAGE_LINK_HERE" alt="Google Sheets Backend" width="95%">
+  <img src="https://github.com/Raven-D3v/data-analytics-portfolio/blob/04be5951cf1026f95495d4849c96fb637d4deffa/Project/Automation/Sentinel/src/SENTIL%20-%20DATA.png" alt="Google Sheets Backend" width="95%">
 </p>
 
 > **Shows:** License database, expiry dates, recipient management, and manual trigger interface.
@@ -93,7 +93,7 @@ Gmail      Backend Logs
 ## ⚙️ n8n Workflow
 
 <p align="center">
-  <img src="YOUR_N8N_WORKFLOW_IMAGE_LINK_HERE" alt="n8n Workflow" width="95%">
+  <img src="https://github.com/Raven-D3v/data-analytics-portfolio/blob/04be5951cf1026f95495d4849c96fb637d4deffa/Project/Automation/Sentinel/src/SENTI%20-%20SampWorkflow.png" alt="n8n Workflow" width="95%">
 </p>
 
 > **Shows:** Main automation workflow responsible for monitoring license renewals and sending notifications.
