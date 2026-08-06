@@ -102,11 +102,25 @@ Gmail      Backend Logs
 
 ## 📧 Email Notification
 
-<p align="center">
-  <img src="YOUR_EMAIL_IMAGE_LINK_HERE" alt="Email Notification" width="75%">
-</p>
+<table align="center">
+<tr>
+<td align="center" width="70%">
 
-> **Shows:** Sample automated renewal notification email sent to recipients.
+**Desktop View**
+
+<img src="https://github.com/Raven-D3v/data-analytics-portfolio/blob/dd3cd15543d615f7c35420049d43e4203fc04f6f/Project/Automation/Sentinel/src/SENTI_Email.png" alt="Desktop Email Notification" width="100%">
+
+</td>
+
+<td align="center" width="30%">
+
+**Mobile View**
+
+<img src="YOUR_MOBILE_EMAIL_IMAGE_LINK_HERE" alt="Mobile Email Notification" width="100%">
+
+</td>
+</tr>
+</table>
 
 ---
 
