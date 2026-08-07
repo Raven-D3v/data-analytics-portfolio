@@ -94,7 +94,7 @@ Gmail      Backend Logs
 ## 📅 Google Calendar Scheduler
 
 <p align="center">
-  <img src="https://github.com/Raven-D3v/data-analytics-portfolio/blob/09d6bddc602f2cd0ee4401c772cc3699473a1767/Project/Automation/Sentinel/src/SENTIL%20-%20Calendar.png" alt="Google Calendar Scheduler" width="95%">
+  <img src="https://github.com/Raven-D3v/data-analytics-portfolio/blob/fdbff7d0a8acdad4568b21580d29a1da7e4bc820/Project/Automation/Sentinel/src/SENTIL_Calendar.png" alt="Google Calendar Scheduler" width="95%">
 </p>
 
 > **Shows:** Google Calendar events used as configurable automation triggers. Administrators can easily adjust execution schedules by updating calendar events without modifying the automation workflow.
