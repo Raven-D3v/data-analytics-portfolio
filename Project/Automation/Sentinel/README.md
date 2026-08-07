@@ -130,10 +130,16 @@ Gmail      Backend Logs
 ## 📈 Backend Monitoring
 
 <p align="center">
-  <img src="YOUR_MONITORING_IMAGE_LINK_HERE" alt="Backend Monitoring" width="95%">
+  <img src="https://github.com/Raven-D3v/data-analytics-portfolio/blob/821496a29bb51bdd133434b0e25c782360ed9b41/Project/Automation/Sentinel/src/SENTIL_DailyLogs.png" alt="Backend Monitoring" width="95%">
 </p>
 
-> **Shows:** Workflow execution logs, health monitoring, and error notification system.
+> **Shows:** Automated daily execution logs for health monitoring.
+
+<p align="center">
+  <img src="https://github.com/Raven-D3v/data-analytics-portfolio/blob/821496a29bb51bdd133434b0e25c782360ed9b41/Project/Automation/Sentinel/src/SENTIL_WF-DailyLogs.png" alt="Backend Monitoring" width="95%">
+</p>
+
+> **Shows:** Workflow for automated health monitoring daily execution logs.
 
 ---
 
