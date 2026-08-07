@@ -182,11 +182,13 @@ As the **sole developer** of this project, I was responsible for:
 
 # 🚀 Business Impact
 
-- Reduced repetitive manual license monitoring
-- Centralized license renewal management
-- Automated email reminders
-- Improved workflow reliability through backend monitoring
-- Minimized missed renewals caused by human error
+| Before | After |
+|--------|-------|
+| 📋 Employees manually checked Google Sheets every day. | 🤖 SENTINEL monitors licenses automatically. |
+| 👀 Expiring licenses had to be identified manually. | 🚨 Internal alerts are sent **3 months before** license expiration. |
+| 📧 Staff manually notified the responsible teams. | 📬 Internal reminder emails are sent automatically. |
+| ⏰ Daily monitoring was repetitive and time-consuming. | ⚙️ Scheduled automation handles the monitoring. |
+| ⚠️ Missed checks could lead to missed renewals. | ✅ Early alerts reduce the risk of missed renewals. |
 
 ---
 
