@@ -90,6 +90,17 @@ Gmail      Backend Logs
 
 ---
 
+
+## 📅 Google Calendar Scheduler
+
+<p align="center">
+  <img src="https://github.com/Raven-D3v/data-analytics-portfolio/blob/09d6bddc602f2cd0ee4401c772cc3699473a1767/Project/Automation/Sentinel/src/SENTIL%20-%20Calendar.png" alt="Google Calendar Scheduler" width="95%">
+</p>
+
+> **Shows:** Google Calendar events used as configurable automation triggers. Administrators can easily adjust execution schedules by updating calendar events without modifying the automation workflow.
+
+---
+
 ## ⚙️ n8n Workflow
 
 <p align="center">
@@ -123,7 +134,6 @@ Gmail      Backend Logs
 </table>
 
 > **Shows:** Email alert notification sent on desktop and on mobile.
-> 
 
 ---
 
