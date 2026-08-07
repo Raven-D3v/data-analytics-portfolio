@@ -5,14 +5,14 @@
 </p>
 
 <p align="center">
-  <strong>A production-ready automation system developed for a real client during my internship to automate license renewal monitoring and notifications.</strong>
+  <strong>A production-ready license renewal automation system designed and deployed for a real business to automate license monitoring, scheduled notifications, and workflow health reporting.</strong>
 </p>
 
 ---
 
 SENTINEL integrates **Google Sheets**, **n8n**, **Google Calendar**, **Google Apps Script**, and **Gmail** to automatically monitor software and account license expiry dates, send scheduled email alerts, and monitor workflow health.
 
-> **Portfolio Note:** Company-specific information, branding, and business data have been anonymized to protect client confidentiality.
+> **Portfolio Note:** Company-specific information, branding, and business data have been anonymized for confidentiality.
 
 ---
 
@@ -78,7 +78,7 @@ Gmail      Backend Logs
 
 ---
 
-# 📸 Project Preview
+# 📸 Solution Overview
 
 ## 📊 Google Sheets Backend
 
@@ -155,7 +155,7 @@ Gmail      Backend Logs
 
 # 💼 My Role
 
-As the **sole developer** during my internship, I was responsible for:
+As the **sole developer** of this project, I was responsible for:
 
 - Designing the automation architecture
 - Developing the n8n workflows
@@ -192,9 +192,9 @@ As the **sole developer** during my internship, I was responsible for:
 
 # 🔒 Confidentiality Notice
 
-This repository showcases the technical architecture and implementation approach used during a real-world internship project.
+This repository showcases the technical architecture and implementation approach used during a real-world business project.
 
-To protect client confidentiality:
+To protect confidentiality:
 
 - Company information has been removed.
 - Business data has been anonymized.
