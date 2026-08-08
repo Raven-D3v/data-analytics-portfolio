@@ -93,6 +93,74 @@ Students lack a fast, discreet, and internet-independent way to report emergenci
 </details>
 <!--End of OneTapSOS-->
 
+<!--Start of SENTINEL-->
+<details>
+<summary>SENTINEL</summary>
+
+### System Title:
+SENTINEL: License Renewal Alert System (Automated License Monitoring & Notification System)
+
+### Business Problem
+
+Software and account licenses were manually monitored through **Google Sheets**, requiring employees to check expiry dates daily and identify licenses approaching expiration. This created repetitive administrative work and increased the risk of missed renewal reminders.
+
+### Methodology
+
+* Designed an **automated license monitoring and alert system** for internal business operations.
+* Used **Google Sheets as the centralized license database** for license records and notification recipients.
+* Used **Google Calendar as a configurable scheduling layer**, allowing administrators to adjust automation schedules without modifying the workflow.
+* Built the automation logic using **n8n** to monitor license expiry dates and trigger internal notifications.
+* Integrated **Google Apps Script** for manual execution and system interaction.
+* Implemented **backend health monitoring, execution logging, and workflow error notifications** to improve system reliability.
+
+### Skills Applied
+
+* System Design & Architecture
+* Business Process Automation
+* n8n – Workflow Orchestration
+* Google Sheets – Data Layer
+* Google Apps Script – Backend Logic
+* Google Calendar – Scheduling & Event Triggers
+* Gmail – Internal Notification Automation
+* Workflow Monitoring & Error Handling
+* Process Automation & Optimization
+
+### Results & Key Insight
+
+* Eliminated the need for employees to manually check license records every day.
+* Automatically identifies licenses reaching **3 months before expiration**.
+* Sends **internal renewal alerts automatically** to the configured recipients.
+* Allows administrators to manage automation schedules through Google Calendar.
+* Added automated health logging and error monitoring for better workflow reliability.
+
+✅ **Validated that business-critical administrative processes can be transformed from manual spreadsheet monitoring into a proactive, self-monitoring automation system.**
+
+### **Project Details:**
+
+<table>
+  <thead>
+    <tr>
+      <th>Project</th>
+      <th>Description</th>
+      <th>Preview</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href="Project/Automation/Sentinel/README.md">SENTINEL</a></td>
+      <td>A production-ready license renewal automation system that connects Google Sheets, Google Calendar, Apps Script, n8n, and Gmail to automatically monitor license expiry dates, trigger internal renewal alerts 3 months before expiration, and monitor workflow health.</td>
+      <td>
+        <a href="https://github.com/Raven-D3v/data-analytics-portfolio/blob/262c4915b552f67bdd6b85ee282bf544a7e3ec7e/Project/Automation/Sentinel/README.md">
+          <img src="Project/Automation/Sentinel/src/SENTI_Email.png" height="300"/>
+        </a>
+      </td>
+    </tr>
+  </tbody>
+</table>
+
+</details>
+<!--End of SENTINEL-->
+
 <!--Start of EventSync-->
 <details>
 <summary>EventSync </summary>
